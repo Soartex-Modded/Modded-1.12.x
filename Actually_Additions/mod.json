@@ -1,0 +1,10 @@
+{
+  "mod_id": "ActuallyAdditions",
+  "mod_name": "Actually Additions",
+  "mod_dir": "/Actually_Additions/",
+  "mod_version": "r117",
+  "mc_version": "1.12",
+  "mod_authors": ["Ellpeck"],
+  "url_website": "",
+  "description": "Adds lots of items that use certain basic crafting items to be crafted."
+}
