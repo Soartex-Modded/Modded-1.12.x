@@ -1,6 +1,1 @@
-drawer_key.png
-drawer_key_2.png
-drawer_key_personal_cofh.png
-drawer_key_personal_default.png
-drawer_key_shroud.png
 tape_roll.png
