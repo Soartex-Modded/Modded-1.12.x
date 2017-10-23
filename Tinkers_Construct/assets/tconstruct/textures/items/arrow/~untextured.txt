@@ -1,0 +1,6 @@
+fletching.png
+fletching_feather.png
+head.png
+head_contrast.png
+shaft.png
+shaft_broken.png

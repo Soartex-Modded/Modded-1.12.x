@@ -1,0 +1,2 @@
+obelisk_active.png
+obelisk_inactive.png

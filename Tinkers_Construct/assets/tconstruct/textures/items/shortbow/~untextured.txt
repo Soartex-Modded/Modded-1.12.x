@@ -1,0 +1,17 @@
+bowstring.png
+bowstring_1.png
+bowstring_2.png
+bowstring_3.png
+bowstring_broken.png
+limb_bottom.png
+limb_bottom_2.png
+limb_bottom_2_contrast.png
+limb_bottom_3.png
+limb_bottom_3_contrast.png
+limb_bottom_contrast.png
+limb_top.png
+limb_top_2.png
+limb_top_2_contrast.png
+limb_top_3.png
+limb_top_3_contrast.png
+limb_top_contrast.png
