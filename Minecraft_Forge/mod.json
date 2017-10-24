@@ -1,0 +1,10 @@
+{
+  "mod_id": "Minecraft_Forge",
+  "mod_name": "Minecraft Forge",
+  "mod_dir": "/Minecraft_Forge/",
+  "mod_version": "v14.23.0.2515",
+  "mc_version": "1.12.2",
+  "mod_authors": ["LexManos", "cpw", "fry"],
+  "url_website": "http://minecraftforge.net",
+  "description": "A common open source API allowing a broad range of mods to work cooperatively together."
+}
