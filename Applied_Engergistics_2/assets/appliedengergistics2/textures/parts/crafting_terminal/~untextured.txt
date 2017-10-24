@@ -1,4 +1,0 @@
-backlights.png
-l0.png
-l1.png
-l2.png
