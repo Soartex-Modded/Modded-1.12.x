@@ -1,0 +1,10 @@
+{
+  "mod_id": "stevescarts",
+  "mod_name": "Steves Carts Reborn",
+  "mod_dir": "/Steves_Carts/",
+  "mod_version": "2.4.10.49",
+  "mc_version": "1.12",
+  "mod_authors": ["modmuss50"],
+  "url_website": "https://minecraft.curseforge.com/projects/steves-carts-reborn",
+  "description": "It allows for the player to customize and design minecarts that can be used for automation"
+}
