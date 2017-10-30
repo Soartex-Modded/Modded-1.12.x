@@ -1,0 +1,10 @@
+{
+  "mod_id": "forestry",
+  "mod_name": "Forestry",
+  "mod_dir": "/Forestry/",
+  "mod_version": "v5.6.0",
+  "mc_version": "1.12.2",
+  "mod_authors": ["SirSengir"],
+  "url_website": "https://minecraft.curseforge.com/projects/forestry",
+  "description": "Trees, bees and more."
+}
