@@ -1,0 +1,10 @@
+{
+    "mod_id": "TwilightForest",
+    "mod_name": "The Twilight Forest",
+    "mod_dir": "/Twilight_Forest/",
+    "mod_version": "3.3.202 ",
+    "mc_version": "1.12.x",
+    "mod_authors": ["Benimatic"],
+    "url_website": "https://minecraft.curseforge.com/projects/the-twilight-forest",
+    "description": "An enchanted forest dimension."
+  }

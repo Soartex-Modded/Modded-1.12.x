@@ -1,0 +1,10 @@
+{
+    "mod_id": "natura",
+    "mod_name": "Natura",
+    "mod_dir": "/Natura/",
+    "mod_version": "4.0.3.23",
+    "mc_version": "1.12.x",
+    "mod_authors": ["mDiyo", "Slime Knights"],
+    "url_website": "https://minecraft.curseforge.com/projects/natura",
+    "description": "Heyo, Redwood trees! Chop them all day long!"
+  }

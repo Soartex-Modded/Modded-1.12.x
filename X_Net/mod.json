@@ -1,0 +1,11 @@
+{
+    "mod_id": "XNet",
+    "mod_name": "XNet",
+    "mod_dir": "/X_Net/",
+    "mod_version": "1.4.1",
+    "mc_version": "1.12.x",
+    "mod_authors": ["McJty"],
+    "url_website": "https://minecraft.curseforge.com/projects/xnet",
+    "description": "XNet is a mod which adds a single type of networking."
+  }
+  
