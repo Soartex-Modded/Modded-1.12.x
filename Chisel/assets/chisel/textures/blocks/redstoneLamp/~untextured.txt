@@ -1,0 +1,4 @@
+redstone_lamp_off.png
+redstone_lamp_on.png
+square-off.png
+square-on.png

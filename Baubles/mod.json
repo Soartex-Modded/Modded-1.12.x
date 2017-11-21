@@ -1,0 +1,10 @@
+{
+  "mod_id": "baubles",
+  "mod_name": "Baubles",
+  "mod_dir": "/Baubles/",
+  "mod_version": "1.5.1",
+  "mc_version": "1.12",
+  "mod_authors": ["Azanor"],
+  "url_website": "https://minecraft.curseforge.com/projects/baubles",
+  "description": "Baubles is a small addon mod and api that is intended to be used by other mods to add additional inventory slots to a character"
+}

@@ -1,0 +1,10 @@
+{
+  "mod_id": "enderstorage",
+  "mod_name": "Ender Storage",
+  "mod_dir": "/Ender_Storage/",
+  "mod_version": "4.0.122",
+  "mc_version": "1.12",
+  "mod_authors": ["covers1624"],
+  "url_website": "https://minecraft.curseforge.com/projects/ender-storage-1-8",
+  "description": "These chests link together based on matching color patterns"
+}

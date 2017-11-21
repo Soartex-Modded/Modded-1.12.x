@@ -1,0 +1,9 @@
+box.png
+cross.png
+door.png
+floral.png
+horizontal.png
+plain.png
+sixSections.png
+throughMiddle.png
+vertical.png

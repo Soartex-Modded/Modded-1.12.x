@@ -1,0 +1,16 @@
+bacon.png
+jerky_clownfish.png
+jerky_pufferfish.png
+jerky_rabbit.png
+jerky_salmon.png
+moms_spaghetti.png
+slimedrop_blood.png
+slimedrop_blue.png
+slimedrop_green.png
+slimedrop_magma.png
+slimedrop_purple.png
+spaghetti_cold.png
+spaghetti_hard.png
+spaghetti_meat.png
+spaghetti_sauce.png
+spaghetti_soggy.png

@@ -1,0 +1,5 @@
+archetype2.png
+hades.png
+hadesX32.png
+shroud.png
+strobe.png
