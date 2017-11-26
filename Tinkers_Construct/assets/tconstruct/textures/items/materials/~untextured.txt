@@ -6,7 +6,3 @@ mending_moss.png
 mud_brick.png
 nugget_knightslime.png
 reinforcement.png
-slimeball_blood.png
-slimeball_blue.png
-slimeball_magma.png
-slimeball_purple.png
