@@ -1,0 +1,10 @@
+{
+  "mod_id": "mekanismgenerators",
+  "mod_name": "Mekanism Generators",
+  "mod_dir": "/Mekanism_Generators/",
+  "mod_version": "v9.4.1",
+  "mc_version": "1.12.2",
+  "mod_authors": ["aidancbrady"],
+  "url_website": "http://aidancbrady.com/mekanism/",
+  "description": "Energy production"
+}
