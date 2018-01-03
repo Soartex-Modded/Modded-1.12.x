@@ -38,4 +38,4 @@ SyncToy*
 pack.mcmeta
 
 # Model Editors
-.cubik
+*.cubik
