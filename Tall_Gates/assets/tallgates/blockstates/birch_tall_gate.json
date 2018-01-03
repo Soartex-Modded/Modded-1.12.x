@@ -1,0 +1,29 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {
+            "texture": "blocks/fence/fence_birch_gate"
+        },
+        "uvlock": false
+    },
+    "variants": {
+        "facing=south,half=upper,open=true": { "model": "tallgates:fence_gate_upper_open" },
+        "facing=south,half=upper,open=false": { "model": "tallgates:fence_gate_upper_closed" },
+        "facing=west,half=upper,open=true": { "model": "tallgates:fence_gate_upper_open", "y": 90 },
+        "facing=west,half=upper,open=false": { "model": "tallgates:fence_gate_upper_closed", "y": 90 },
+        "facing=north,half=upper,open=true": { "model": "tallgates:fence_gate_upper_open", "y": 180 },
+        "facing=north,half=upper,open=false": { "model": "tallgates:fence_gate_upper_closed", "y": 180 },
+        "facing=east,half=upper,open=true": { "model": "tallgates:fence_gate_upper_open", "y": 270 },
+        "facing=east,half=upper,open=false": { "model": "tallgates:fence_gate_upper_closed", "y": 270 },
+
+        "facing=south,half=lower,open=true": { "model": "tallgates:fence_gate_open" },
+        "facing=south,half=lower,open=false": { "model": "tallgates:fence_gate_closed" },
+        "facing=west,half=lower,open=true": { "model": "tallgates:fence_gate_open", "y": 90 },
+        "facing=west,half=lower,open=false": { "model": "tallgates:fence_gate_closed", "y": 90 },
+        "facing=north,half=lower,open=true": { "model": "tallgates:fence_gate_open", "y": 180 },
+        "facing=north,half=lower,open=false": { "model": "tallgates:fence_gate_closed", "y": 180 },
+        "facing=east,half=lower,open=true": { "model": "tallgates:fence_gate_open", "y": 270 },
+        "facing=east,half=lower,open=false": { "model": "tallgates:fence_gate_closed", "y": 270 }
+
+    }
+}

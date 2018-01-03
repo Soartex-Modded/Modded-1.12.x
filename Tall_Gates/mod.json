@@ -1,0 +1,10 @@
+{
+  "mod_id": "tallgates",
+  "mod_name": "Tall Gates",
+  "mod_dir": "/Tall_Gates/",
+  "mod_version": "v1.0.0.1",
+  "mc_version": "1.12",
+  "mod_authors": ["Gory_Moon"],
+  "url_website": "https://minecraft.curseforge.com/projects/tallgates",
+  "description": "A mod that adds tall fence gates to the game."
+}
