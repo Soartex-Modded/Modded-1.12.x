@@ -1,0 +1,10 @@
+{
+  "mod_id": "jeibees",
+  "mod_name": "JEI Bees",
+  "mod_dir": "/JEI_Bees/",
+  "mod_version": "0.9.0.5",
+  "mc_version": "1.12.2",
+  "mod_authors": ["bdew"],
+  "url_website": "https://minecraft.curseforge.com/projects/jei-bees",
+  "description": "This mod adds JEI recipes that show breeding and products from Forestry bees, trees and butterflies."
+}
