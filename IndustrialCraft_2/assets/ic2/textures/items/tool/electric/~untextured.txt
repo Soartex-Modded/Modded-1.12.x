@@ -1,3 +1,0 @@
-obscurator_mask.png
-plasma_launcher.png
-wind_meter.png

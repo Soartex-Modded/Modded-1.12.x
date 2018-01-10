@@ -1,7 +1,0 @@
-booze_mug_beer_ale.png
-booze_mug_beer_beer.png
-booze_mug_beer_black_stuff.png
-booze_mug_beer_brew.png
-booze_mug_beer_dragon_blood.png
-booze_mug_beer_youngster.png
-booze_mug_rum.png

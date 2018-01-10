@@ -1,3 +1,0 @@
-small_bronze.png
-small_lapis.png
-small_obsidian.png
