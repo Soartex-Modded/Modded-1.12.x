@@ -1,0 +1,2 @@
+resin_sheet.png
+rubber_sheet.png

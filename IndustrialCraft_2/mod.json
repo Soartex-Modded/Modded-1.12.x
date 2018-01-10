@@ -1,0 +1,10 @@
+{
+  "mod_id": "ic2",
+  "mod_name": "IndustrialCraft 2",
+  "mod_dir": "/IndustrialCraft_2/",
+  "mod_version": "2.8.37",
+  "mc_version": "1.12.2",
+ "mod_authors": ["Alblaka", "Player", "RichardG", "Thunderdark", "GregoriusT", "alexthesax", "Drashian", "Elementalist", "Feanturi", "Lurch1985", "SirusKing", "tahu44"],
+  "url_website": "https://minecraft.curseforge.com/projects/industrial-craft",
+ "description": "Industrial age themed expansion for Minecraft."
+}

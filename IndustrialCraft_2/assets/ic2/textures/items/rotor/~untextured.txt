@@ -1,0 +1,8 @@
+carbon_rotor.png
+carbon_rotor_model.png
+iron_rotor.png
+iron_rotor_model.png
+steel_rotor.png
+steel_rotor_model.png
+wood_rotor.png
+wood_rotor_model.png

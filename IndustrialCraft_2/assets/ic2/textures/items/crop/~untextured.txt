@@ -1,0 +1,6 @@
+crop_invalid.png
+crop_seed_bag.png
+crop_stick.png
+crop_unknown.png
+weed.png
+weeding_trowel.png

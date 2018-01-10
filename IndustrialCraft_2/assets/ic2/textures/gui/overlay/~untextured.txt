@@ -1,0 +1,4 @@
+blast_furnace.png
+induction_furnace_input.png
+induction_furnace_output.png
+pump_arrow.png
