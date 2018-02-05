@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "soartexores:blocks/storage/block_bronze"
+    }
+}
