@@ -1,0 +1,40 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "transform": "forge:default-block",
+    "textures": { "all": "soartexores:blocks/ore/ore_copper" },
+    "model": "cube_all"
+  },
+  "variants": {
+    "inventory,type=copper": [
+      { "textures": { "all": "soartexores:blocks/ore/ore_copper" } }
+    ],
+    "inventory,type=aluminum": [
+      { "textures": { "all": "soartexores:blocks/ore/ore_aluminum" } }
+    ],
+    "inventory,type=lead": [
+      { "textures": { "all": "soartexores:blocks/ore/ore_lead" } }
+    ],
+    "inventory,type=silver": [
+      { "textures": { "all": "soartexores:blocks/ore/ore_silver" } }
+    ],
+    "inventory,type=nickel": [
+      { "textures": { "all": "soartexores:blocks/ore/ore_nickel" } }
+    ],
+    "type": {
+      "copper": {
+        "textures": { "all": "soartexores:blocks/ore/ore_copper" }
+      },
+      "aluminum": {
+        "textures": { "all": "soartexores:blocks/ore/ore_aluminum" }
+      },
+      "lead": { "textures": { "all": "soartexores:blocks/ore/ore_lead" } },
+      "silver": {
+        "textures": { "all": "soartexores:blocks/ore/ore_silver" }
+      },
+      "nickel": {
+        "textures": { "all": "soartexores:blocks/ore/ore_nickel" }
+      }
+    }
+  }
+}

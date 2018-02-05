@@ -1,0 +1,6 @@
+{
+		"parent":"immersiveengineering:item/ie_item_base",
+		"textures": {
+			"layer0":"soartexores:items/dust/dust_constantan"
+		}
+}

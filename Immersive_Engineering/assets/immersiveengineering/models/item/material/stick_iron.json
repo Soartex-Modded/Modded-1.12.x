@@ -1,0 +1,6 @@
+{
+		"parent":"item/handheld",
+		"textures": {
+			"layer0":"soartexores:items/rod/rod_iron"
+		}
+}
