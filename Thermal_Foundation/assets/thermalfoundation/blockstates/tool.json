@@ -1,0 +1,564 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "builtin/generated",
+		"textures": {
+			"layer0": "blocks/dirt"
+		},
+		"transform": "forge:default-tool"
+	},
+	"variants": {
+		"type": {
+			"sword_copper": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/copper/sword"
+				}
+			},
+			"shovel_copper": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/copper/shovel"
+				}
+			},
+			"pickaxe_copper": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/copper/pickaxe"
+				}
+			},
+			"axe_copper": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/copper/axe"
+				}
+			},
+			"hoe_copper": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/copper/hoe"
+				}
+			},
+			"shears_copper": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/copper/shears"
+				}
+			},
+			"sickle_copper": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/copper/sickle"
+				}
+			},
+			"hammer_copper": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/copper/hammer"
+				}
+			},
+			"sword_tin": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/tin/sword"
+				}
+			},
+			"shovel_tin": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/tin/shovel"
+				}
+			},
+			"pickaxe_tin": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/tin/pickaxe"
+				}
+			},
+			"axe_tin": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/tin/axe"
+				}
+			},
+			"hoe_tin": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/tin/hoe"
+				}
+			},
+			"shears_tin": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/tin/shears"
+				}
+			},
+			"sickle_tin": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/tin/sickle"
+				}
+			},
+			"hammer_tin": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/tin/hammer"
+				}
+			},
+			"sword_silver": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/silver/sword"
+				}
+			},
+			"shovel_silver": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/silver/shovel"
+				}
+			},
+			"pickaxe_silver": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/silver/pickaxe"
+				}
+			},
+			"axe_silver": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/silver/axe"
+				}
+			},
+			"hoe_silver": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/silver/hoe"
+				}
+			},
+			"shears_silver": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/silver/shears"
+				}
+			},
+			"sickle_silver": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/silver/sickle"
+				}
+			},
+			"hammer_silver": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/silver/hammer"
+				}
+			},
+			"sword_lead": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/lead/sword"
+				}
+			},
+			"shovel_lead": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/lead/shovel"
+				}
+			},
+			"pickaxe_lead": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/lead/pickaxe"
+				}
+			},
+			"axe_lead": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/lead/axe"
+				}
+			},
+			"hoe_lead": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/lead/hoe"
+				}
+			},
+			"shears_lead": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/lead/shears"
+				}
+			},
+			"sickle_lead": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/lead/sickle"
+				}
+			},
+			"hammer_lead": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/lead/hammer"
+				}
+			},
+			"sword_aluminum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/aluminum/sword"
+				}
+			},
+			"shovel_aluminum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/aluminum/shovel"
+				}
+			},
+			"pickaxe_aluminum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/aluminum/pickaxe"
+				}
+			},
+			"axe_aluminum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/aluminum/axe"
+				}
+			},
+			"hoe_aluminum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/aluminum/hoe"
+				}
+			},
+			"shears_aluminum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/aluminum/shears"
+				}
+			},
+			"sickle_aluminum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/aluminum/sickle"
+				}
+			},
+			"hammer_aluminum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/aluminum/hammer"
+				}
+			},
+			"sword_nickel": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/nickel/sword"
+				}
+			},
+			"shovel_nickel": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/nickel/shovel"
+				}
+			},
+			"pickaxe_nickel": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/nickel/pickaxe"
+				}
+			},
+			"axe_nickel": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/nickel/axe"
+				}
+			},
+			"hoe_nickel": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/nickel/hoe"
+				}
+			},
+			"shears_nickel": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/nickel/shears"
+				}
+			},
+			"sickle_nickel": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/nickel/sickle"
+				}
+			},
+			"hammer_nickel": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/nickel/hammer"
+				}
+			},
+			"sword_platinum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/platinum/sword"
+				}
+			},
+			"shovel_platinum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/platinum/shovel"
+				}
+			},
+			"pickaxe_platinum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/platinum/pickaxe"
+				}
+			},
+			"axe_platinum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/platinum/axe"
+				}
+			},
+			"hoe_platinum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/platinum/hoe"
+				}
+			},
+			"shears_platinum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/platinum/shears"
+				}
+			},
+			"sickle_platinum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/platinum/sickle"
+				}
+			},
+			"hammer_platinum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/platinum/hammer"
+				}
+			},
+			"sword_steel": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/steel/sword"
+				}
+			},
+			"shovel_steel": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/steel/shovel"
+				}
+			},
+			"pickaxe_steel": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/steel/pickaxe"
+				}
+			},
+			"axe_steel": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/steel/axe"
+				}
+			},
+			"hoe_steel": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/steel/hoe"
+				}
+			},
+			"shears_steel": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/steel/shears"
+				}
+			},
+			"sickle_steel": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/steel/sickle"
+				}
+			},
+			"hammer_steel": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/steel/hammer"
+				}
+			},
+			"sword_electrum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/electrum/sword"
+				}
+			},
+			"shovel_electrum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/electrum/shovel"
+				}
+			},
+			"pickaxe_electrum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/electrum/pickaxe"
+				}
+			},
+			"axe_electrum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/electrum/axe"
+				}
+			},
+			"hoe_electrum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/electrum/hoe"
+				}
+			},
+			"shears_electrum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/electrum/shears"
+				}
+			},
+			"sickle_electrum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/electrum/sickle"
+				}
+			},
+			"hammer_electrum": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/electrum/hammer"
+				}
+			},
+			"sword_invar": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/invar/sword"
+				}
+			},
+			"shovel_invar": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/invar/shovel"
+				}
+			},
+			"pickaxe_invar": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/invar/pickaxe"
+				}
+			},
+			"axe_invar": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/invar/axe"
+				}
+			},
+			"hoe_invar": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/invar/hoe"
+				}
+			},
+			"shears_invar": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/invar/shears"
+				}
+			},
+			"sickle_invar": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/invar/sickle"
+				}
+			},
+			"hammer_invar": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/invar/hammer"
+				}
+			},
+			"sword_bronze": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/bronze/sword"
+				}
+			},
+			"shovel_bronze": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/bronze/shovel"
+				}
+			},
+			"pickaxe_bronze": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/bronze/pickaxe"
+				}
+			},
+			"axe_bronze": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/bronze/axe"
+				}
+			},
+			"hoe_bronze": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/bronze/hoe"
+				}
+			},
+			"shears_bronze": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/bronze/shears"
+				}
+			},
+			"sickle_bronze": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/bronze/sickle"
+				}
+			},
+			"hammer_bronze": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/bronze/hammer"
+				}
+			},
+			"sword_constantan": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/constantan/sword"
+				}
+			},
+			"shovel_constantan": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/constantan/shovel"
+				}
+			},
+			"pickaxe_constantan": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/constantan/pickaxe"
+				}
+			},
+			"axe_constantan": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/constantan/axe"
+				}
+			},
+			"hoe_constantan": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/constantan/hoe"
+				}
+			},
+			"shears_constantan": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/constantan/shears"
+				}
+			},
+			"sickle_constantan": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/constantan/sickle"
+				}
+			},
+			"hammer_constantan": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/constantan/hammer"
+				}
+			},
+			"shears_wood": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/wood/shears"
+				}
+			},
+			"sickle_wood": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/wood/sickle"
+				}
+			},
+			"hammer_wood": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/wood/hammer"
+				}
+			},
+			"shears_stone": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/stone/shears"
+				}
+			},
+			"sickle_stone": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/stone/sickle"
+				}
+			},
+			"hammer_stone": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/stone/hammer"
+				}
+			},
+			"sickle_iron": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/iron/sickle"
+				}
+			},
+			"hammer_iron": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/iron/hammer"
+				}
+			},
+			"shears_gold": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/gold/shears"
+				}
+			},
+			"sickle_gold": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/gold/sickle"
+				}
+			},
+			"hammer_gold": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/gold/hammer"
+				}
+			},
+			"shears_diamond": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/diamond/shears"
+				}
+			},
+			"sickle_diamond": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/diamond/sickle"
+				}
+			},
+			"hammer_diamond": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/diamond/hammer"
+				}
+			}
+		}
+	}
+}

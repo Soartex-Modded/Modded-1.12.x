@@ -1,0 +1,56 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "cube_all",
+		"transform": "forge:default-block"
+	},
+	"variants": {
+		"type": {
+			"copper": {
+				"textures": {
+					"all": "soartex_base:blocks/metal/ore/copper"
+				}
+			},
+			"tin": {
+				"textures": {
+					"all": "soartex_base:blocks/metal/ore/tin"
+				}
+			},
+			"silver": {
+				"textures": {
+					"all": "soartex_base:blocks/metal/ore/silver"
+				}
+			},
+			"lead": {
+				"textures": {
+					"all": "soartex_base:blocks/metal/ore/lead"
+				}
+			},
+			"aluminum": {
+				"textures": {
+					"all": "soartex_base:blocks/metal/ore/aluminum"
+				}
+			},
+			"nickel": {
+				"textures": {
+					"all": "soartex_base:blocks/metal/ore/nickel"
+				}
+			},
+			"platinum": {
+				"textures": {
+					"all": "soartex_base:blocks/metal/ore/platinum"
+				}
+			},
+			"iridium": {
+				"textures": {
+					"all": "soartex_base:blocks/metal/ore/iridium"
+				}
+			},
+			"mithril": {
+				"textures": {
+					"all": "soartex_base:blocks/metal/ore/mithril"
+				}
+			}
+		}
+	}
+}

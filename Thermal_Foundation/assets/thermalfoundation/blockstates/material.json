@@ -1,0 +1,534 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "builtin/generated",
+    "textures": {
+      "layer0": "blocks/dirt"
+    },
+    "transform": "forge:default-item"
+  },
+  "variants": {
+    "type": {
+      "dustiron": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/iron"
+        }
+      },
+      "dustgold": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/gold"
+        }
+      },
+      "dustcoal": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/coal"
+        }
+      },
+      "dustcharcoal": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/charcoal"
+        }
+      },
+      "dustobsidian": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/obsidian"
+        }
+      },
+      "dustsulfur": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/sulfur"
+        }
+      },
+      "dustniter": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/niter"
+        }
+      },
+      "dustcopper": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/copper"
+        }
+      },
+      "dusttin": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/tin"
+        }
+      },
+      "dustsilver": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/silver"
+        }
+      },
+      "dustlead": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/lead"
+        }
+      },
+      "dustaluminum": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/aluminum"
+        }
+      },
+      "dustnickel": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/nickel"
+        }
+      },
+      "dustplatinum": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/platinum"
+        }
+      },
+      "dustiridium": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/iridium"
+        }
+      },
+      "dustmithril": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/mithril"
+        }
+      },
+      "duststeel": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/steel"
+        }
+      },
+      "dustelectrum": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/electrum"
+        }
+      },
+      "dustinvar": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/invar"
+        }
+      },
+      "dustbronze": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/bronze"
+        }
+      },
+      "dustconstantan": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/constantan"
+        }
+      },
+      "dustsignalum": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/signalum"
+        }
+      },
+      "dustlumium": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/lumium"
+        }
+      },
+      "dustenderium": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/enderium"
+        }
+      },
+      "dustwood": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/wood"
+        }
+      },
+      "dustwoodcompressed": {
+        "textures": {
+          "layer0": "soartex_base:items/dust/wood_compressed"
+        }
+      },
+      "ingotcopper": {
+        "textures": {
+          "layer0": "soartex_base:items/ingot/copper"
+        }
+      },
+      "ingottin": {
+        "textures": {
+          "layer0": "soartex_base:items/ingot/tin"
+        }
+      },
+      "ingotsilver": {
+        "textures": {
+          "layer0": "soartex_base:items/ingot/silver"
+        }
+      },
+      "ingotlead": {
+        "textures": {
+          "layer0": "soartex_base:items/ingot/lead"
+        }
+      },
+      "ingotaluminum": {
+        "textures": {
+          "layer0": "soartex_base:items/ingot/aluminum"
+        }
+      },
+      "ingotnickel": {
+        "textures": {
+          "layer0": "soartex_base:items/ingot/nickel"
+        }
+      },
+      "ingotplatinum": {
+        "textures": {
+          "layer0": "soartex_base:items/ingot/platinum"
+        }
+      },
+      "ingotiridium": {
+        "textures": {
+          "layer0": "soartex_base:items/ingot/iridium"
+        }
+      },
+      "ingotmithril": {
+        "textures": {
+          "layer0": "soartex_base:items/ingot/mithril"
+        }
+      },
+      "ingotsteel": {
+        "textures": {
+          "layer0": "soartex_base:items/ingot/steel"
+        }
+      },
+      "ingotelectrum": {
+        "textures": {
+          "layer0": "soartex_base:items/ingot/electrum"
+        }
+      },
+      "ingotinvar": {
+        "textures": {
+          "layer0": "soartex_base:items/ingot/invar"
+        }
+      },
+      "ingotbronze": {
+        "textures": {
+          "layer0": "soartex_base:items/ingot/bronze"
+        }
+      },
+      "ingotconstantan": {
+        "textures": {
+          "layer0": "soartex_base:items/ingot/constantan"
+        }
+      },
+      "ingotsignalum": {
+        "textures": {
+          "layer0": "soartex_base:items/ingot/signalum"
+        }
+      },
+      "ingotlumium": {
+        "textures": {
+          "layer0": "soartex_base:items/ingot/lumium"
+        }
+      },
+      "ingotenderium": {
+        "textures": {
+          "layer0": "soartex_base:items/ingot/enderium"
+        }
+      },
+      "nuggetdiamond": {
+        "textures": {
+          "layer0": "soartex_base:items/nugget/diamond"
+        }
+      },
+      "nuggetemerald": {
+        "textures": {
+          "layer0": "soartex_base:items/nugget/emerald"
+        }
+      },
+      "nuggetcopper": {
+        "textures": {
+          "layer0": "soartex_base:items/nugget/copper"
+        }
+      },
+      "nuggettin": {
+        "textures": {
+          "layer0": "soartex_base:items/nugget/tin"
+        }
+      },
+      "nuggetsilver": {
+        "textures": {
+          "layer0": "soartex_base:items/nugget/silver"
+        }
+      },
+      "nuggetlead": {
+        "textures": {
+          "layer0": "soartex_base:items/nugget/lead"
+        }
+      },
+      "nuggetaluminum": {
+        "textures": {
+          "layer0": "soartex_base:items/nugget/aluminum"
+        }
+      },
+      "nuggetnickel": {
+        "textures": {
+          "layer0": "soartex_base:items/nugget/nickel"
+        }
+      },
+      "nuggetplatinum": {
+        "textures": {
+          "layer0": "soartex_base:items/nugget/platinum"
+        }
+      },
+      "nuggetiridium": {
+        "textures": {
+          "layer0": "soartex_base:items/nugget/iridium"
+        }
+      },
+      "nuggetmithril": {
+        "textures": {
+          "layer0": "soartex_base:items/nugget/mithril"
+        }
+      },
+      "nuggetsteel": {
+        "textures": {
+          "layer0": "soartex_base:items/nugget/steel"
+        }
+      },
+      "nuggetelectrum": {
+        "textures": {
+          "layer0": "soartex_base:items/nugget/electrum"
+        }
+      },
+      "nuggetinvar": {
+        "textures": {
+          "layer0": "soartex_base:items/nugget/invar"
+        }
+      },
+      "nuggetbronze": {
+        "textures": {
+          "layer0": "soartex_base:items/nugget/bronze"
+        }
+      },
+      "nuggetconstantan": {
+        "textures": {
+          "layer0": "soartex_base:items/nugget/constantan"
+        }
+      },
+      "nuggetsignalum": {
+        "textures": {
+          "layer0": "soartex_base:items/nugget/signalum"
+        }
+      },
+      "nuggetlumium": {
+        "textures": {
+          "layer0": "soartex_base:items/nugget/lumium"
+        }
+      },
+      "nuggetenderium": {
+        "textures": {
+          "layer0": "soartex_base:items/nugget/enderium"
+        }
+      },
+      "geariron": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/iron"
+        }
+      },
+      "geargold": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/gold"
+        }
+      },
+      "gearcopper": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/copper"
+        }
+      },
+      "geartin": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/tin"
+        }
+      },
+      "gearsilver": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/silver"
+        }
+      },
+      "gearlead": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/lead"
+        }
+      },
+      "gearaluminum": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/aluminum"
+        }
+      },
+      "gearnickel": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/nickel"
+        }
+      },
+      "gearplatinum": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/platinum"
+        }
+      },
+      "geariridium": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/iridium"
+        }
+      },
+      "gearmithril": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/mithril"
+        }
+      },
+      "gearsteel": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/steel"
+        }
+      },
+      "gearelectrum": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/electrum"
+        }
+      },
+      "gearinvar": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/invar"
+        }
+      },
+      "gearbronze": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/bronze"
+        }
+      },
+      "gearconstantan": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/constantan"
+        }
+      },
+      "gearsignalum": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/signalum"
+        }
+      },
+      "gearlumium": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/lumium"
+        }
+      },
+      "gearenderium": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/enderium"
+        }
+      },
+      "plateiron": {
+        "textures": {
+          "layer0": "soartex_base:items/plate/iron"
+        }
+      },
+      "plategold": {
+        "textures": {
+          "layer0": "soartex_base:items/plate/gold"
+        }
+      },
+      "platecopper": {
+        "textures": {
+          "layer0": "soartex_base:items/plate/copper"
+        }
+      },
+      "platetin": {
+        "textures": {
+          "layer0": "soartex_base:items/plate/tin"
+        }
+      },
+      "platesilver": {
+        "textures": {
+          "layer0": "soartex_base:items/plate/silver"
+        }
+      },
+      "platelead": {
+        "textures": {
+          "layer0": "soartex_base:items/plate/lead"
+        }
+      },
+      "platealuminum": {
+        "textures": {
+          "layer0": "soartex_base:items/plate/aluminum"
+        }
+      },
+      "platenickel": {
+        "textures": {
+          "layer0": "soartex_base:items/plate/nickel"
+        }
+      },
+      "plateplatinum": {
+        "textures": {
+          "layer0": "soartex_base:items/plate/platinum"
+        }
+      },
+      "plateiridium": {
+        "textures": {
+          "layer0": "soartex_base:items/plate/iridium"
+        }
+      },
+      "platemithril": {
+        "textures": {
+          "layer0": "soartex_base:items/plate/mithril"
+        }
+      },
+      "platesteel": {
+        "textures": {
+          "layer0": "soartex_base:items/plate/steel"
+        }
+      },
+      "plateelectrum": {
+        "textures": {
+          "layer0": "soartex_base:items/plate/electrum"
+        }
+      },
+      "plateinvar": {
+        "textures": {
+          "layer0": "soartex_base:items/plate/invar"
+        }
+      },
+      "platebronze": {
+        "textures": {
+          "layer0": "soartex_base:items/plate/bronze"
+        }
+      },
+      "plateconstantan": {
+        "textures": {
+          "layer0": "soartex_base:items/plate/constantan"
+        }
+      },
+      "platesignalum": {
+        "textures": {
+          "layer0": "soartex_base:items/plate/signalum"
+        }
+      },
+      "platelumium": {
+        "textures": {
+          "layer0": "soartex_base:items/plate/lumium"
+        }
+      },
+      "plateenderium": {
+        "textures": {
+          "layer0": "soartex_base:items/plate/enderium"
+        }
+      },
+      "fuelcoke": {
+        "textures": {
+          "layer0": "soartex_base:items/material/coal_coke"
+        }
+      },
+      "crystalslag": {
+				"textures": {
+					"layer0": "soartex_base:items/material/material_slag"
+				}
+			},
+			"crystalslagrich": {
+				"textures": {
+					"layer0": "soartex_base:items/material/material_slag_rich"
+				}
+      },
+      "crystalcinnabar": {
+				"textures": {
+					"layer0": "soartex_base:items/material/material_cinnabar"
+				}
+			}
+    }
+  }
+}

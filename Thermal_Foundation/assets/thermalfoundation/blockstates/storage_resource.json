@@ -1,0 +1,21 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "cube_all",
+		"transform": "forge:default-block"
+	},
+	"variants": {
+		"type": {
+			"charcoal": {
+				"textures": {
+					"all": "soartex_base:blocks/resource/storage/charcoal"
+				}
+			},
+			"coke": {
+				"textures": {
+					"all": "soartex_base:blocks/resource/storage/coke"
+				}
+			}
+		}
+	}
+}

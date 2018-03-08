@@ -1,0 +1,254 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "builtin/generated",
+		"textures": {
+			"layer0": "blocks/dirt"
+		},
+		"transform": "forge:default-item"
+	},
+	"variants": {
+		"type": {
+			"helmet_copper": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/copper/helmet"
+				}
+			},
+			"chestplate_copper": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/copper/chestplate"
+				}
+			},
+			"leggings_copper": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/copper/leggings"
+				}
+			},
+			"boots_copper": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/copper/boots"
+				}
+			},
+			"helmet_tin": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/tin/helmet"
+				}
+			},
+			"chestplate_tin": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/tin/chestplate"
+				}
+			},
+			"leggings_tin": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/tin/leggings"
+				}
+			},
+			"boots_tin": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/tin/boots"
+				}
+			},
+			"helmet_silver": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/silver/helmet"
+				}
+			},
+			"chestplate_silver": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/silver/chestplate"
+				}
+			},
+			"leggings_silver": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/silver/leggings"
+				}
+			},
+			"boots_silver": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/silver/boots"
+				}
+			},
+			"helmet_lead": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/lead/helmet"
+				}
+			},
+			"chestplate_lead": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/lead/chestplate"
+				}
+			},
+			"leggings_lead": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/lead/leggings"
+				}
+			},
+			"boots_lead": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/lead/boots"
+				}
+			},
+			"helmet_aluminum": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/aluminum/helmet"
+				}
+			},
+			"chestplate_aluminum": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/aluminum/chestplate"
+				}
+			},
+			"leggings_aluminum": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/aluminum/leggings"
+				}
+			},
+			"boots_aluminum": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/aluminum/boots"
+				}
+			},
+			"helmet_nickel": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/nickel/helmet"
+				}
+			},
+			"chestplate_nickel": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/nickel/chestplate"
+				}
+			},
+			"leggings_nickel": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/nickel/leggings"
+				}
+			},
+			"boots_nickel": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/nickel/boots"
+				}
+			},
+			"helmet_platinum": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/platinum/helmet"
+				}
+			},
+			"chestplate_platinum": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/platinum/chestplate"
+				}
+			},
+			"leggings_platinum": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/platinum/leggings"
+				}
+			},
+			"boots_platinum": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/platinum/boots"
+				}
+			},
+			"helmet_steel": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/steel/helmet"
+				}
+			},
+			"chestplate_steel": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/steel/chestplate"
+				}
+			},
+			"leggings_steel": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/steel/leggings"
+				}
+			},
+			"boots_steel": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/steel/boots"
+				}
+			},
+			"helmet_electrum": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/electrum/helmet"
+				}
+			},
+			"chestplate_electrum": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/electrum/chestplate"
+				}
+			},
+			"leggings_electrum": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/electrum/leggings"
+				}
+			},
+			"boots_electrum": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/electrum/boots"
+				}
+			},
+			"helmet_invar": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/invar/helmet"
+				}
+			},
+			"chestplate_invar": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/invar/chestplate"
+				}
+			},
+			"leggings_invar": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/invar/leggings"
+				}
+			},
+			"boots_invar": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/invar/boots"
+				}
+			},
+			"helmet_bronze": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/bronze/helmet"
+				}
+			},
+			"chestplate_bronze": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/bronze/chestplate"
+				}
+			},
+			"leggings_bronze": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/bronze/leggings"
+				}
+			},
+			"boots_bronze": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/bronze/boots"
+				}
+			},
+			"helmet_constantan": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/constantan/helmet"
+				}
+			},
+			"chestplate_constantan": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/constantan/chestplate"
+				}
+			},
+			"leggings_constantan": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/constantan/leggings"
+				}
+			},
+			"boots_constantan": {
+				"textures": {
+					"layer0": "soartex_base:items/armor/constantan/boots"
+				}
+			}
+		}
+	}
+}

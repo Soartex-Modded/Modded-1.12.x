@@ -1,0 +1,51 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "cube_all",
+		"transform": "forge:default-block"
+	},
+	"variants": {
+		"type": {
+			"steel": {
+				"textures": {
+					"all": "soartex_base:blocks/metal/storage/steel"
+				}
+			},
+			"electrum": {
+				"textures": {
+					"all": "soartex_base:blocks/metal/storage/electrum"
+				}
+			},
+			"invar": {
+				"textures": {
+					"all": "soartex_base:blocks/metal/storage/invar"
+				}
+			},
+			"bronze": {
+				"textures": {
+					"all": "soartex_base:blocks/metal/storage/bronze"
+				}
+			},
+			"constantan": {
+				"textures": {
+					"all": "soartex_base:blocks/metal/storage/constantan"
+				}
+			},
+			"signalum": {
+				"textures": {
+					"all": "soartex_base:blocks/metal/storage/signalum"
+				}
+			},
+			"lumium": {
+				"textures": {
+					"all": "soartex_base:blocks/metal/storage/lumium"
+				}
+			},
+			"enderium": {
+				"textures": {
+					"all": "soartex_base:blocks/metal/storage/enderium"
+				}
+			}
+		}
+	}
+}
