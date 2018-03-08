@@ -1,0 +1,85 @@
+{
+  "forge_marker":1,
+  "variants": {
+    "type": {
+      "pig_iron": {
+        "textures": {
+          "all": "primal:blocks/ores/pigiron_block"
+        },
+        "model": "cube_all"
+      },
+      "steel": {
+        "textures": {
+          "all": "soartex_base:blocks/metal/storage/steel"
+        },
+        "model": "cube_all"
+      },
+      "wootz": {
+        "textures": {
+          "all": "primal:blocks/ores/wootz_block"
+        },
+        "model": "cube_all"
+      },
+      "tamahagane": {
+        "textures": {
+          "all": "primal:blocks/ores/tamahagane_block"
+        },
+        "model": "cube_all"
+      },
+      "vanadium": {
+        "textures": {
+          "all": "primal:blocks/ores/vanadium_block"
+        },
+        "model": "cube_all"
+      },
+      "adamant": {
+        "textures": {
+          "all": "primal:blocks/ores/adamant_block"
+        },
+        "model": "cube_all"
+      },
+      "silver": {
+        "textures": {
+          "all": "soartex_base:blocks/metal/storage/silver"
+        },
+        "model": "cube_all"
+      },
+      "lead": {
+        "textures": {
+          "all": "soartex_base:blocks/metal/storage/lead"
+        },
+        "model": "cube_all"
+      },
+      "zinc": {
+        "textures": {
+          "all": "soartex_base:blocks/metal/storage/zinc"
+        },
+        "model": "cube_all"
+      },
+      "tin": {
+        "textures": {
+          "all": "soartex_base:blocks/metal/storage/tin"
+        },
+        "model": "cube_all"
+      },
+      "copper": {
+        "textures": {
+          "all": "soartex_base:blocks/metal/storage/copper"
+        },
+        "model": "cube_all"
+      },
+      "bronze": {
+        "textures": {
+          "all": "soartex_base:blocks/metal/storage/bronze"
+        },
+        "model": "cube_all"
+      },
+      "brass": {
+        "textures": {
+          "all": "soartex_base:blocks/metal/storage/brass"
+        },
+        "model": "cube_all"
+      }
+    }
+  }
+}
