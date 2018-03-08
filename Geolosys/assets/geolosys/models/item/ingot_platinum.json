@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "soartex_base:items/ingot/platinum"
+    }
+}
