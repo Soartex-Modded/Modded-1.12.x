@@ -1,6 +1,6 @@
 {
 		"parent":"immersiveengineering:item/ie_item_base",
 		"textures": {
-			"layer0":"soartexores:items/material/coal_coke"
+			"layer0":"soartex_base:items/material/coal_coke"
 		}
 }

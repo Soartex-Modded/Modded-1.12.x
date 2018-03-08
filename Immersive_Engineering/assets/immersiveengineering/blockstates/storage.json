@@ -6,55 +6,55 @@
   },
   "variants": {
     "inventory,type=copper": [
-      { "textures": { "all": "soartexores:blocks/storage/block_copper" } }
+      { "textures": { "all": "soartex_base:blocks/metal/storage/copper" } }
     ],
     "inventory,type=aluminum": [
-      { "textures": { "all": "soartexores:blocks/storage/block_aluminum" } }
+      { "textures": { "all": "soartex_base:blocks/metal/storage/aluminum" } }
     ],
     "inventory,type=lead": [
-      { "textures": { "all": "soartexores:blocks/storage/block_lead" } }
+      { "textures": { "all": "soartex_base:blocks/metal/storage/lead" } }
     ],
     "inventory,type=silver": [
-      { "textures": { "all": "soartexores:blocks/storage/block_silver" } }
+      { "textures": { "all": "soartex_base:blocks/metal/storage/silver" } }
     ],
     "inventory,type=nickel": [
-      { "textures": { "all": "soartexores:blocks/storage/block_nickel" } }
+      { "textures": { "all": "soartex_base:blocks/metal/storage/nickel" } }
     ],
     "inventory,type=constantan": [
       {
-        "textures": { "all": "soartexores:blocks/storage/block_constantan" }
+        "textures": { "all": "soartex_base:blocks/metal/storage/constantan" }
       }
     ],
     "inventory,type=electrum": [
-      { "textures": { "all": "soartexores:blocks/storage/block_electrum" } }
+      { "textures": { "all": "soartex_base:blocks/metal/storage/electrum" } }
     ],
     "inventory,type=steel": [
-      { "textures": { "all": "soartexores:blocks/storage/block_steel" } }
+      { "textures": { "all": "soartex_base:blocks/metal/storage/steel" } }
     ],
     "type": {
       "copper": {
-        "textures": { "all": "soartexores:blocks/storage/block_copper" }
+        "textures": { "all": "soartex_base:blocks/metal/storage/copper" }
       },
       "aluminum": {
-        "textures": { "all": "soartexores:blocks/storage/block_aluminum" }
+        "textures": { "all": "soartex_base:blocks/metal/storage/aluminum" }
       },
       "lead": {
-        "textures": { "all": "soartexores:blocks/storage/block_lead" }
+        "textures": { "all": "soartex_base:blocks/metal/storage/lead" }
       },
       "silver": {
-        "textures": { "all": "soartexores:blocks/storage/block_silver" }
+        "textures": { "all": "soartex_base:blocks/metal/storage/silver" }
       },
       "nickel": {
-        "textures": { "all": "soartexores:blocks/storage/block_nickel" }
+        "textures": { "all": "soartex_base:blocks/metal/storage/nickel" }
       },
       "constantan": {
-        "textures": { "all": "soartexores:blocks/storage/block_constantan" }
+        "textures": { "all": "soartex_base:blocks/metal/storage/constantan" }
       },
       "electrum": {
-        "textures": { "all": "soartexores:blocks/storage/block_electrum" }
+        "textures": { "all": "soartex_base:blocks/metal/storage/electrum" }
       },
       "steel": {
-        "textures": { "all": "soartexores:blocks/storage/block_steel" }
+        "textures": { "all": "soartex_base:blocks/metal/storage/steel" }
       }
     }
   }

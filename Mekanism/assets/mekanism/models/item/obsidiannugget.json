@@ -1,7 +1,7 @@
 {
     "parent": "mekanism:item/standard_item",
     "textures": {
-        "layer0": "soartexores:items/nugget/nugget_obsidian"
+        "layer0": "soartex_base:items/nugget/obsidian"
     }
 }
 

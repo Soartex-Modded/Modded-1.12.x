@@ -3,7 +3,7 @@
   "defaults": {
     "model": "mekanism:basic_cube",
     "textures": {
-      "all": "soartexores:blocks/storage/block_tin"
+      "all": "soartex_base:blocks/metal/storage/tin"
     }
   },
   "variants": {

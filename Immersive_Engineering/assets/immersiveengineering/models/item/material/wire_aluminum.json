@@ -1,6 +1,6 @@
 {
 		"parent":"immersiveengineering:item/ie_item_base",
 		"textures": {
-			"layer0":"soartexores:items/wire/wire_aluminum"
+			"layer0":"soartex_base:items/wire/aluminum"
 		}
 }

@@ -5,9 +5,9 @@
   },
   "variants": {
     "type": {
-      "osmium": {"textures": {"all": "soartexores:blocks/ore/ore_osmium"}},
-      "copper": {"textures": {"all": "soartexores:blocks/ore/ore_copper"}},
-      "tin": {"textures": {"all": "soartexores:blocks/ore/ore_tin"}}
+      "osmium": {"textures": {"all": "soartex_base:blocks/metal/ore/osmium"}},
+      "copper": {"textures": {"all": "soartex_base:blocks/metal/ore/copper"}},
+      "tin": {"textures": {"all": "soartex_base:blocks/metal/ore/tin"}}
     },
     "inventory": [{}]
   }

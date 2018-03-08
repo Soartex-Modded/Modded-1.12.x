@@ -2,38 +2,38 @@
   "forge_marker": 1,
   "defaults": {
     "transform": "forge:default-block",
-    "textures": { "all": "soartexores:blocks/ore/ore_copper" },
+    "textures": { "all": "soartex_base:blocks/metal/ore/copper" },
     "model": "cube_all"
   },
   "variants": {
     "inventory,type=copper": [
-      { "textures": { "all": "soartexores:blocks/ore/ore_copper" } }
+      { "textures": { "all": "soartex_base:blocks/metal/ore/copper" } }
     ],
     "inventory,type=aluminum": [
-      { "textures": { "all": "soartexores:blocks/ore/ore_aluminum" } }
+      { "textures": { "all": "soartex_base:blocks/metal/ore/aluminum" } }
     ],
     "inventory,type=lead": [
-      { "textures": { "all": "soartexores:blocks/ore/ore_lead" } }
+      { "textures": { "all": "soartex_base:blocks/metal/ore/lead" } }
     ],
     "inventory,type=silver": [
-      { "textures": { "all": "soartexores:blocks/ore/ore_silver" } }
+      { "textures": { "all": "soartex_base:blocks/metal/ore/silver" } }
     ],
     "inventory,type=nickel": [
-      { "textures": { "all": "soartexores:blocks/ore/ore_nickel" } }
+      { "textures": { "all": "soartex_base:blocks/metal/ore/nickel" } }
     ],
     "type": {
       "copper": {
-        "textures": { "all": "soartexores:blocks/ore/ore_copper" }
+        "textures": { "all": "soartex_base:blocks/metal/ore/copper" }
       },
       "aluminum": {
-        "textures": { "all": "soartexores:blocks/ore/ore_aluminum" }
+        "textures": { "all": "soartex_base:blocks/metal/ore/aluminum" }
       },
-      "lead": { "textures": { "all": "soartexores:blocks/ore/ore_lead" } },
+      "lead": { "textures": { "all": "soartex_base:blocks/metal/ore/lead" } },
       "silver": {
-        "textures": { "all": "soartexores:blocks/ore/ore_silver" }
+        "textures": { "all": "soartex_base:blocks/metal/ore/silver" }
       },
       "nickel": {
-        "textures": { "all": "soartexores:blocks/ore/ore_nickel" }
+        "textures": { "all": "soartex_base:blocks/metal/ore/nickel" }
       }
     }
   }

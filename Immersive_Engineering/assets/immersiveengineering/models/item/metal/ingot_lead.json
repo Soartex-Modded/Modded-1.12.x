@@ -1,6 +1,6 @@
 {
 		"parent":"immersiveengineering:item/ie_item_base",
 		"textures": {
-			"layer0":"soartexores:items/ingot/ingot_lead"
+			"layer0":"soartex_base:items/ingot/lead"
 		}
 }

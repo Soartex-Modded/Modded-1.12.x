@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "soartexores:blocks/ore/ore_tin"
+        "all": "soartex_base:blocks/metal/ore/tin"
     }
 }

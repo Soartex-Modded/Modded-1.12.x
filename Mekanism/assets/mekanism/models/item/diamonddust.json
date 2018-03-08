@@ -1,7 +1,7 @@
 {
     "parent": "mekanism:item/standard_item",
     "textures": { 
-        "layer0": "soartexores:items/dust/dust_diamond"
+        "layer0": "soartex_base:items/dust/diamond"
     }
 }
 

@@ -1,6 +1,6 @@
 {
 		"parent":"immersiveengineering:item/ie_item_base",
 		"textures": {
-			"layer0":"soartexores:items/plate/plate_electrum"
+			"layer0":"soartex_base:items/plate/electrum"
 		}
 }

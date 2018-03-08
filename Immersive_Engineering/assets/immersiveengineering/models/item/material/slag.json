@@ -1,6 +1,6 @@
 {
 		"parent":"immersiveengineering:item/ie_item_base",
 		"textures": {
-			"layer0":"soartexores:items/material/material_slag"
+			"layer0":"soartex_base:items/material/material_slag"
 		}
 }

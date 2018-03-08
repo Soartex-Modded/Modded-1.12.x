@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "soartexores:items/gear/gear_tin"
+        "layer0": "soartex_base:items/gear/tin"
     }
 }

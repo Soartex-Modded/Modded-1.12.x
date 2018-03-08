@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "soartexores:items/ingot/ingot_bronze"
+        "layer0": "soartex_base:items/ingot/bronze"
     }
 }

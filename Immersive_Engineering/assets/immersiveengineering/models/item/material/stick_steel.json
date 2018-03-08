@@ -1,6 +1,6 @@
 {
 		"parent":"item/handheld",
 		"textures": {
-			"layer0":"soartexores:items/rod/rod_steel"
+			"layer0":"soartex_base:items/rod/steel"
 		}
 }
