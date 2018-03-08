@@ -1,0 +1,10 @@
+{
+  "mod_id": "environmentaltech",
+  "mod_name": "Environmental Tech",
+  "mod_dir": "/Environmental_Tech/",
+  "mod_version": "v2.0.7b",
+  "mc_version": "1.12.2",
+  "mod_authors": ["ValkyrieofNight"],
+  "url_website": "http://minecraft.curseforge.com/projects/environmental-tech",
+  "description": "Environmental Tech is a mod containing a vast selection of multiblock machines."
+}
