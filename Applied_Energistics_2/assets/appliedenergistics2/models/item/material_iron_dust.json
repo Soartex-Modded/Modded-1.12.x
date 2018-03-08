@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "soartex_base:items/dust/dust_iron"
+    "layer0": "soartex_base:items/dust/iron"
   }
 }
