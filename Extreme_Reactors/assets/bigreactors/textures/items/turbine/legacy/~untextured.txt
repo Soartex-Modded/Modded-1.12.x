@@ -1,2 +1,0 @@
-housingCoreSide.png
-housingCoreTop.png
