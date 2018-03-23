@@ -1,0 +1,10 @@
+{
+  "mod_id": "immcraft",
+  "mod_name": "Immersive Craft",
+  "mod_dir": "/Immersive_Craft/",
+  "mod_version": "1.4.1",
+  "mc_version": "1.12.2",
+  "mod_authors": ["McJty"],
+  "url_website": "https://minecraft.curseforge.com/projects/immersive-craft",
+  "description": "This mod adds a more immersive way to handle, craft and store objects in Minecraft."
+}
