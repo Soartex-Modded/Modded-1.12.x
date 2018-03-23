@@ -1,0 +1,10 @@
+{
+  "mod_id": "cookingforblockheads",
+  "mod_name": "Cooking for Blockheads",
+  "mod_dir": "/Cooking_For_Blockheads/",
+  "mod_version": "6.3.17",
+  "mc_version": "1.12.2",
+  "mod_authors": ["BlayTheNinth"],
+  "url_website": "https://minecraft.curseforge.com/projects/cooking-for-blockheads",
+  "description": "Adds a cooking book and multiblock kitchens that only shows recipes you can make with what you currently have in your inventory."
+}
