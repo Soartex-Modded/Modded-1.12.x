@@ -1,0 +1,10 @@
+{
+  "mod_id": "base",
+  "mod_name": "B.A.S.E",
+  "mod_dir": "/B_A_S_E/",
+  "mod_version": "3.7.0",
+  "mc_version": "1.12.2",
+  "mod_authors": ["SkySom", "Lanse505", "Jared", "EwyBoy"],
+  "url_website": "http://minecraft.curseforge.com/projects/b-a-s-e",
+  "description": "Library Mod for the Team Acronym Coders."
+}
