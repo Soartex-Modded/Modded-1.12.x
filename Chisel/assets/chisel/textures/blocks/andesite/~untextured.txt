@@ -1,4 +1,3 @@
-array.png
 braid.png
 bricks-chaotic.png
 bricks-cracked.png
