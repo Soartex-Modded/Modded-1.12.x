@@ -1,0 +1,10 @@
+{
+  "mod_id": "pickletweaks",
+  "mod_name": "Pickle Tweaks",
+  "mod_dir": "/Pickle_Tweaks/",
+  "mod_version": "2.0.9",
+  "mc_version": "1.12.2",
+  "mod_authors": ["BlakeBr0"],
+  "url_website": "https://minecraft.curseforge.com/projects/pickle-tweaks",
+  "description": "Adds a whole bunch of awesome blocks, items, features, and tweaks!"
+}

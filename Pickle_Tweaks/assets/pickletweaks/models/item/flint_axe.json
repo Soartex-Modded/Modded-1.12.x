@@ -1,0 +1,6 @@
+{
+  "parent":"item/handheld",
+  "textures": {
+    "layer0":"soartex_base:items/tool/flint/axe"
+  }
+}
