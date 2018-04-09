@@ -1,0 +1,7 @@
+{
+	"parent": "block/cube_column",
+	"textures": {
+		"side": "soartex_base:blocks/resource/storage/charcoal",
+        "end": "soartex_base:blocks/resource/storage/charcoal"
+	}
+}

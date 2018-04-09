@@ -1,0 +1,7 @@
+{
+	"parent": "block/column_side",
+	"textures": {
+		"side": "soartex_base:blocks/resource/storage/charcoal",
+        "end": "soartex_base:blocks/resource/storage/charcoal"
+	}
+}
