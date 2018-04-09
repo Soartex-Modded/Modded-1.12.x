@@ -1,0 +1,6 @@
+{
+  "parent": "betterwithmods:item/default",
+  "textures": {
+    "layer0": "soartex_base:items/armor/steel/chestplate"
+  }
+}

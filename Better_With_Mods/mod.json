@@ -1,0 +1,10 @@
+{
+  "mod_id": "betterwithmods",
+  "mod_name": "Better With Mods",
+  "mod_dir": "/Better_With_Mods/",
+  "mod_version": "2.0.34",
+  "mc_version": "1.12.2",
+  "mod_authors": ["BeetoGuy", "primetoxinz"],
+  "url_website": "https://minecraft.curseforge.com/projects/better-with-mods",
+  "description": "Your one-stop shop for mechanical power and sadism."
+}
