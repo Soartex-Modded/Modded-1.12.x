@@ -1,0 +1,10 @@
+{
+  "mod_id": "horsepower",
+  "mod_name": "Horse Power",
+  "mod_dir": "/Horse_Power/",
+  "mod_version": "2.6.1.62",
+  "mc_version": "1.12.2",
+  "mod_authors": ["Gory_Moon"],
+  "url_website": "https://minecraft.curseforge.com/projects/horse-power",
+  "description": "A mods that adds horse powered blocks."
+}
