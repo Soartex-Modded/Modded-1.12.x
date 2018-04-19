@@ -1,0 +1,10 @@
+{
+    "mod_id": "nex",
+    "mod_name": "NetherEx",
+    "mod_dir": "/NetherEx/",
+    "mod_version": "2.1.14.15",
+    "mc_version": "1.12.2",
+    "mod_authors": ["LogicTechCorp", "Eleazzaar", "Nazenn", "Vlakk"],
+    "url_website": "https://minecraft.curseforge.com/projects/netherex",
+    "description": "A Nether expansion, exploration, and experience."
+  }
