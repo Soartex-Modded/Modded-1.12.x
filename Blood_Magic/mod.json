@@ -1,0 +1,10 @@
+{
+  "mod_id": "bloodmagic",
+  "mod_name": "Blood Magic",
+  "mod_dir": "/Blood_Magic/",
+  "mod_version": "2.2.12-97",
+  "mc_version": "1.12.2",
+  "mod_authors": ["WayofTime"],
+  "url_website": "https://minecraft.curseforge.com/projects/blood-magic",
+  "description": "Rituals, spells, and more!"
+}
