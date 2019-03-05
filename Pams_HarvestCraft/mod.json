@@ -1,0 +1,10 @@
+{
+  "mod_id": "harvestcraft",
+  "mod_name": "Pam's HarvestCraft",
+  "mod_dir": "/Pams_HarvestCraft/",
+  "mod_version": "1.11.2-1.11.2h",
+  "mc_version": "1.11.2",
+  "mod_authors": ["MatrexsVigil"],
+  "url_website": "https://minecraft.curseforge.com/projects/pams-harvestcraft",
+  "description": "An absolutely huge farming and food mod."
+}
