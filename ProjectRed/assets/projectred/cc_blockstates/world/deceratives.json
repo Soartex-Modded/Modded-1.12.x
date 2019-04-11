@@ -1,0 +1,77 @@
+{
+  "ccl_marker": 1,
+  "variant_sets" : [
+    "type"
+  ],
+  "texture_domain" : "projectred",
+  "defaults": {
+    "model": "minecraft:cube_all",
+    "textures": {
+      "all": "minecraft:blocks/dirt"
+    },
+    "transform": "ccl:default-block"
+  },
+  "variants": {
+    "type": {
+      "marble": {
+        "textures": {
+          "all": "soartex_base:blocks/stone/marble/raw"
+        }
+      },
+      "marble_brick": {
+        "textures": {
+          "all": "soartex_base:blocks/stone/marble/bricks"
+        }
+      },
+      "basalt_cobble": {
+        "textures": {
+          "all": "soartex_base:blocks/stone/basalt/cobble"
+        }
+      },
+      "basalt": {
+        "textures": {
+          "all": "soartex_base:blocks/stone/basalt/raw"
+        }
+      },"basalt_brick": {
+        "textures": {
+          "all": "soartex_base:blocks/stone/basalt/bricks"
+        }
+      },
+      "ruby_block": {
+        "textures": {
+          "all": "soartex_base:blocks/gem/storage/ruby"
+        }
+      },
+      "sapphire_block": {
+        "textures": {
+          "all": "soartex_base:blocks/gem/storage/sapphire_blue"
+        }
+      },
+      "peridot_block": {
+        "textures": {
+          "all": "soartex_base:blocks/gem/storage/peridot"
+        }
+      },
+      "copper_block": {
+        "textures": {
+          "all": "soartex_base:blocks/metal/storage/copper"
+        }
+      },
+      "tin_block": {
+        "textures": {
+          "all": "soartex_base:blocks/metal/storage/tin"
+        }
+      },
+      "silver_block": {
+        "textures": {
+          "all": "soartex_base:blocks/metal/storage/silver"
+        }
+      },
+      "electrotine_block": {
+        "textures": {
+          "all": "blocks/world/electrotine_block"
+        }
+      }
+    }
+  }
+}
