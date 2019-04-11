@@ -1,0 +1,153 @@
+{
+	"ccl_marker": 1,
+	"variant_sets": [
+		"type"
+	],
+	"texture_domain": "projectred",
+	"defaults": {
+		"model": "builtin/generated",
+		"textures": {
+			"layer0": "minecraft:blocks/dirt"
+		},
+		"transform": "ccl:default-tool"
+	},
+	"variants": {
+		"type": {
+			"ruby_axe": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/ruby/axe"
+				}
+			},
+			"sapphire_axe": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/sapphire_blue/axe"
+				}
+			},
+			"peridot_axe": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/peridot/axe"
+				}
+			},
+			"ruby_hoe": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/ruby/hoe"
+				}
+			},
+			"sapphire_hoe": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/sapphire_blue/hoe"
+				}
+			},
+			"peridot_hoe": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/peridot/hoe"
+				}
+			},
+			"ruby_pickaxe": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/ruby/pickaxe"
+				}
+			},
+			"sapphire_pickaxe": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/sapphire_blue/pickaxe"
+				}
+			},
+			"peridot_pickaxe": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/peridot/pickaxe"
+				}
+			},
+			"ruby_shovel": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/ruby/shovel"
+				}
+			},
+			"sapphire_shovel": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/sapphire_blue/shovel"
+				}
+			},
+			"peridot_shovel": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/peridot/shovel"
+				}
+			},
+			"ruby_sword": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/ruby/sword"
+				}
+			},
+			"sapphire_sword": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/sapphire_blue/sword"
+				}
+			},
+			"peridot_sword": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/peridot/sword"
+				}
+			},
+			"gold_saw": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/gold/saw"
+				}
+			},
+			"ruby_saw": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/ruby/saw"
+				}
+			},
+			"sapphire_saw": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/sapphire_blue/saw"
+				}
+			},
+			"peridot_saw": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/peridot/saw"
+				}
+			},
+			"wood_sickle": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/wood/sickle"
+				}
+			},
+			"stone_sickle": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/stone/sickle"
+				}
+			},
+			"iron_sickle": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/iron/sickle"
+				}
+			},
+			"gold_sickle": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/gold/sickle"
+				}
+			},
+			"ruby_sickle": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/ruby/sickle"
+				}
+			},
+			"sapphire_sickle": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/sapphire_blue/sickle"
+				}
+			},
+			"peridot_sickle": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/peridot/sickle"
+				}
+			},
+			"diamond_sickle": {
+				"textures": {
+					"layer0": "soartex_base:items/tool/diamond/sickle"
+				}
+			}
+		}
+	}
+}

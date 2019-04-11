@@ -1,0 +1,108 @@
+{
+  "ccl_marker": 1,
+  "variant_sets" : [
+    "type"
+  ],
+  "texture_domain" : "projectred",
+  "defaults": {
+    "model": "builtin/generated",
+    "textures": {
+      "layer0": "minecraft:blocks/dirt"
+    },
+    "transform": "ccl:default-item"
+  },
+  "variants": {
+    "type": {
+      "wool_gin": {
+        "textures": {
+          "layer0": "items/world/wool_gin"
+        }
+      },
+      "athame": {
+        "textures": {
+          "layer0": "soartex_base:items/tool/silver/sword"
+        },
+        "transform" : "forge:default-tool"
+      },
+      "backpack_0": {
+        "textures": {
+          "layer0": "soartex_base:items/backpack/white"
+        }
+      },
+      "backpack_1": {
+        "textures": {
+          "layer0": "soartex_base:items/backpack/orange"
+        }
+      },"backpack_2": {
+        "textures": {
+          "layer0": "soartex_base:items/backpack/magenta"
+        }
+      },
+      "backpack_3": {
+        "textures": {
+          "layer0": "soartex_base:items/backpack/light_blue"
+        }
+      },
+      "backpack_4": {
+        "textures": {
+          "layer0": "soartex_base:items/backpack/yellow"
+        }
+      },
+      "backpack_5": {
+        "textures": {
+          "layer0": "soartex_base:items/backpack/lime"
+        }
+      },
+      "backpack_6": {
+        "textures": {
+          "layer0": "soartex_base:items/backpack/pink"
+        }
+      },
+      "backpack_7": {
+        "textures": {
+          "layer0": "soartex_base:items/backpack/gray"
+        }
+      },
+      "backpack_8": {
+        "textures": {
+          "layer0": "soartex_base:items/backpack/light_gray"
+        }
+      },
+      "backpack_9": {
+        "textures": {
+          "layer0": "soartex_base:items/backpack/cyan"
+        }
+      },
+      "backpack_10": {
+        "textures": {
+          "layer0": "soartex_base:items/backpack/purple"
+        }
+      },
+      "backpack_11": {
+        "textures": {
+          "layer0": "soartex_base:items/backpack/blue"
+        }
+      },
+      "backpack_12": {
+        "textures": {
+          "layer0": "soartex_base:items/backpack/brown"
+        }
+      },
+      "backpack_13": {
+        "textures": {
+          "layer0": "soartex_base:items/backpack/green"
+        }
+      },
+      "backpack_14": {
+        "textures": {
+          "layer0": "soartex_base:items/backpack/red"
+        }
+      },
+      "backpack_15": {
+        "textures": {
+          "layer0": "soartex_base:items/backpack/black"
+        }
+      }
+    }
+  }
+}

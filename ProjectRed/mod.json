@@ -1,0 +1,10 @@
+{
+  "mod_id": "projectred",
+  "mod_name": "ProjectRed",
+  "mod_dir": "/ProjectRed/",
+  "mod_version": "4.9.1.92",
+  "mc_version": "1.12.2",
+  "mod_authors": ["MrTJP","ChickenBones","covers1624"],
+  "url_website": "https://projectredwiki.com/",
+  "description": "Redstone. The way it was meant to be."
+}
