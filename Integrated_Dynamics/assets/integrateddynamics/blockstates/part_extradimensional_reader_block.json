@@ -1,0 +1,19 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "integrateddynamics:part_extradimensional_reader"
+  },
+  "variants": {
+    "facing": {
+      "north": { "x": 270},
+      "east" : { "x": 90, "y": 270 },
+      "south": { "x": 90 },
+      "west" : { "x": 90, "y": 90 },
+      "up"   : { "x": 180 },
+      "down" : {}
+    },
+    "inventory": {
+      "model": "integrateddynamics:part_extradimensional_reader"
+    }
+  }
+}
