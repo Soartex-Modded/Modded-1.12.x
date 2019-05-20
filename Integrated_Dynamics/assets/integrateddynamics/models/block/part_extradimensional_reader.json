@@ -1,0 +1,880 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "ambientocclusion": false,
+    "textures": {
+        "world_importer_base": "integrateddynamics:parts/extradimensional_reader"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 270, 0, 45 ],
+            "translation": [ -3, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 1, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 5, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -45, 270, 230 ],
+            "translation": [ -2, 3, 6 ],
+            "scale": [ 0.3, 0.3, 0.3 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 90, 315, 0 ],
+            "translation": [ 0, 0.5, 1.1 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Center base",
+            "from": [ 4, 0, 4 ], 
+            "to": [ 12, 0, 12 ], 
+            "faces": {
+                "down": { "texture": "#world_importer_base", "uv": [ 1, 1, 9, 9 ] }
+            }
+        },
+        {
+            "name": "South Base",
+            "from": [ 4, 0, 12 ], 
+            "to": [ 12, 1, 13 ], 
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 1 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 1, 9, 9, 10 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 1 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 1, 0, 9, 1 ] }
+            }
+        },
+        {
+            "name": "East Base",
+            "from": [ 12, 0, 4 ], 
+            "to": [ 13, 1, 12 ], 
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 1 ] },
+                "east": { "texture": "#world_importer_base", "uv": [ 1, 9, 9, 10 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 1 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 9, 1, 10, 9 ] }
+            }
+        },
+        {
+            "name": "North base",
+            "from": [ 4, 0, 3 ], 
+            "to": [ 12, 1, 4 ], 
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 1, 9, 9, 10 ] },
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 1 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 1 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 1, 9, 9, 10 ] }
+            }
+        },
+        {
+            "name": "West Base",
+            "from": [ 3, 0, 4 ], 
+            "to": [ 4, 1, 12 ], 
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 1 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 1 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 1, 9, 9, 10 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 0, 1, 1, 9 ] }
+            }
+        },
+        {
+            "name": "Corner Crystal 1-1",
+            "from": [ 3.29, 0, 3 ], 
+            "to": [ 3.71, 2.5, 4 ], 
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 11 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 11 ] }
+            }
+        },
+        {
+            "name": "Corner Crystal 1-4",
+            "from": [ 3, 0, 3.29 ], 
+            "to": [ 4, 2.5, 3.71 ], 
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 8, 10, 9, 10.42 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 8, 10, 9, 10.42 ] }
+            }
+        },
+        {
+            "name": "Corner Crystal 2-1",
+            "from": [ 12.29, 0, 3 ], 
+            "to": [ 12.71, 2.5, 4 ], 
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 11 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 11 ] }
+            }
+        },
+        {
+            "name": "Corner Crystal 2-4",
+            "from": [ 12, 0, 3.29 ], 
+            "to": [ 13, 2.5, 3.71 ], 
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 8, 10, 9, 10.42 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 8, 10, 9, 10.42 ] }
+            }
+        },
+        {
+            "name": "Corner Crystal 3-1",
+            "from": [ 3.29, 0, 12 ], 
+            "to": [ 3.71, 2.5, 13 ], 
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 11 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 11 ] }
+            }
+        },
+        {
+            "name": "Corner Crystal 3-4",
+            "from": [ 3, 0, 12.29 ], 
+            "to": [ 4, 2.5, 12.71 ], 
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 8, 10, 9, 10.42 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 8, 10, 9, 10.42 ] }
+            }
+        },
+        {
+            "name": "Corner Crystal 4-1",
+            "from": [ 12.29, 0, 12 ], 
+            "to": [ 12.71, 2.5, 13 ], 
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 11 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 11 ] }
+            }
+        },
+        {
+            "name": "Corner Crystal 4-4",
+            "from": [ 12, 0, 12.29 ], 
+            "to": [ 13, 2.5, 12.71 ], 
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 8, 10, 9, 10.42 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 8, 10, 9, 10.42 ] }
+            }
+        },
+        {
+            "name": "Corner Crystal 1-3",
+            "from": [ 3.29, 0, 3 ], 
+            "to": [ 3.71, 2.5, 4 ], 
+            "rotation": { "origin": [ 3.5, 1.0, 3.5 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 11 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 11 ] }
+            }
+        },
+        {
+            "name": "Corner Crystal 1-4",
+            "from": [ 3.29, 0, 3 ], 
+            "to": [ 3.71, 2.5, 4 ], 
+            "rotation": { "origin": [ 3.5, 1.0, 3.5 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 11 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 11 ] }
+            }
+        },
+        {
+            "name": "Corner Crystal 2-4",
+            "from": [ 12, 0, 3.29 ], 
+            "to": [ 13, 2.5, 3.71 ], 
+            "rotation": { "origin": [ 12.5, 2.0, 3.5 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 8, 10, 9, 10.42 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 8, 10, 9, 10.42 ] }
+            }
+        },
+        {
+            "name": "Corner Crystal 2-4",
+            "from": [ 12, 0, 3.29 ], 
+            "to": [ 13, 2.5, 3.71 ], 
+            "rotation": { "origin": [ 12.5, 2.0, 3.5 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 8, 10, 9, 10.42 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 8, 10, 9, 10.42 ] }
+            }
+        },
+        {
+            "name": "Corner Crystal 3-1",
+            "from": [ 3.29, 0, 12 ], 
+            "to": [ 3.71, 2.5, 13 ], 
+            "rotation": { "origin": [ 3.5, 2.0, 12.5 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 11 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 11 ] }
+            }
+        },
+        {
+            "name": "Corner Crystal 3-1",
+            "from": [ 3.29, 0, 12 ], 
+            "to": [ 3.71, 2.5, 13 ], 
+            "rotation": { "origin": [ 3.5, 2.0, 12.5 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 11 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 11 ] }
+            }
+        },
+        {
+            "name": "Corner Crystal 4-4",
+            "from": [ 12, 0, 12.29 ], 
+            "to": [ 13, 2.5, 12.71 ], 
+            "rotation": { "origin": [ 12.5, 1.0, 12.5 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 8, 10, 9, 10.42 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 8, 10, 9, 10.42 ] }
+            }
+        },
+        {
+            "name": "Corner Crystal 4-4",
+            "from": [ 12, 0, 12.29 ], 
+            "to": [ 13, 2.5, 12.71 ], 
+            "rotation": { "origin": [ 12.5, 1.0, 12.5 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 8, 10, 8.42, 12.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 8, 10, 9, 10.42 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 8, 10, 9, 10.42 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, -0.001, 2.1 ], 
+            "to": [ 8.3, 1.999, 5.5 ], 
+            "rotation": { "origin": [ 8.0, 3.0, 8.0 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 2 ] },
+                "east": { "texture": "#world_importer_base", "uv": [ 10, 0, 13.4, 2 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 10, 0, 13.4, 2 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 3.4 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 10, 10, 10.6, 13.4 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, -0.001, 2.1 ], 
+            "to": [ 8.3, 1.999, 5.5 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 2 ] },
+                "east": { "texture": "#world_importer_base", "uv": [ 10, 0, 13.4, 2 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 10, 0, 13.4, 2 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 3.4 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 10, 10, 10.6, 13.4 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, -0.001, 10.5 ], 
+            "to": [ 8.3, 1.999, 13.9 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 10, 0, 13.4, 2 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 2 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 10, 0, 13.4, 2 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 10, 10, 10.6, 13.4 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 10, 10, 10.6, 13.4 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, -0.001, 10.5 ], 
+            "to": [ 8.3, 1.999, 13.9 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 10, 0, 13.4, 2 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 2 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 10, 0, 13.4, 2 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 10, 10, 10.6, 13.4 ] },
+                "down": { "texture": "#world_importer_base", "uv": [ 10, 10, 10.6, 13.4 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 5.8, 3, 5.79 ], 
+            "to": [ 10.195, 5, 10.214 ], 
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 0, 14, 4.395, 16 ] },
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 14, 4.424, 16 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 0, 14, 4.395, 16 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 14, 4.424, 16 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 11, 10, 15.395, 14.424 ] }
+            }
+        },
+        {
+            "name": "West Base",
+            "from": [ 3, 0.5, 4.02 ], 
+            "to": [ 4.3, 1, 11.98 ], 
+            "rotation": { "origin": [ 3.0, 1.0, 8.0 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 9, 0, 10.3, 0.5 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 9, 0, 10.3, 0.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 10, 2, 11.3, 9.96 ] }
+            }
+        },
+        {
+            "name": "East Base",
+            "from": [ 11.7, 0.5, 4.02 ], 
+            "to": [ 13, 1, 11.98 ], 
+            "rotation": { "origin": [ 13.0, 1.0, 8.0 ], "axis": "z", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 9, 0, 10.3, 0.5 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 9, 0, 10.3, 0.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 10.2, 2, 11.5, 9.96 ] }
+            }
+        },
+        {
+            "name": "North base",
+            "from": [ 4.02, 0.5, 3 ], 
+            "to": [ 11.98, 1, 4.3 ], 
+            "rotation": { "origin": [ 8.0, 1.0, 3.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 9, 0, 10.3, 0.5 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 9, 0, 10.3, 0.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 10, 7.96, 11.3 ] }
+            }
+        },
+        {
+            "name": "South Base",
+            "from": [ 4.02, 0.5, 11.7 ], 
+            "to": [ 11.98, 1, 13 ], 
+            "rotation": { "origin": [ 8.0, 1.0, 13.0 ], "axis": "x", "angle": 45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 9, 0, 10.3, 0.5 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 9, 0, 10.3, 0.5 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 10, 7.96, 11.3 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 2, 2.5 ], 
+            "to": [ 8.3, 2.3, 3.5 ], 
+            "rotation": { "origin": [ 8.0, 3.0, 8.0 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 2.3, 2.9 ], 
+            "to": [ 8.3, 2.6, 3.9 ], 
+            "rotation": { "origin": [ 8.0, 3.0, 8.0 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 2.6, 3.3 ], 
+            "to": [ 8.3, 2.9, 4.3 ], 
+            "rotation": { "origin": [ 8.0, 3.0, 8.0 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 2.9, 3.7 ], 
+            "to": [ 8.3, 3.2, 4.7 ], 
+            "rotation": { "origin": [ 8.0, 3.0, 8.0 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 3.2, 4.1 ], 
+            "to": [ 8.3, 3.5, 5.1 ], 
+            "rotation": { "origin": [ 8.0, 3.0, 8.0 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 3.5, 4.5 ], 
+            "to": [ 8.3, 3.808, 5.75 ], 
+            "rotation": { "origin": [ 8.0, 3.0, 8.0 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.308 ] },
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1.25, 0.308 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1.25, 0.308 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1.25 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 2, 2.5 ], 
+            "to": [ 8.3, 2.3, 3.5 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 2.3, 2.9 ], 
+            "to": [ 8.3, 2.6, 3.9 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 2.6, 3.3 ], 
+            "to": [ 8.3, 2.9, 4.3 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 2.9, 3.7 ], 
+            "to": [ 8.3, 3.2, 4.7 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 3.2, 4.1 ], 
+            "to": [ 8.3, 3.5, 5.1 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 3.5, 4.5 ], 
+            "to": [ 8.3, 3.808, 5.75 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.308 ] },
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1.25, 0.308 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1.25, 0.308 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1.25 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 2, 12.5 ], 
+            "to": [ 8.3, 2.3, 13.5 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 2.3, 12.1 ], 
+            "to": [ 8.3, 2.6, 13.1 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 2.6, 11.7 ], 
+            "to": [ 8.3, 2.9, 12.7 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 2.9, 11.3 ], 
+            "to": [ 8.3, 3.2, 12.3 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 3.2, 10.9 ], 
+            "to": [ 8.3, 3.5, 11.9 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 3.5, 10.25 ], 
+            "to": [ 8.3, 3.808, 11.5 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": -45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1.25, 0.308 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.308 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1.25, 0.308 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1.25 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 2, 12.5 ], 
+            "to": [ 8.3, 2.3, 13.5 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 2.3, 12.1 ], 
+            "to": [ 8.3, 2.6, 13.1 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 2.6, 11.7 ], 
+            "to": [ 8.3, 2.9, 12.7 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 2.9, 11.3 ], 
+            "to": [ 8.3, 3.2, 12.3 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 3.2, 10.9 ], 
+            "to": [ 8.3, 3.5, 11.9 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.3 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1, 0.3 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.7, 3.5, 10.25 ], 
+            "to": [ 8.3, 3.808, 11.5 ], 
+            "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "east": { "texture": "#world_importer_base", "uv": [ 0, 0, 1.25, 0.308 ] },
+                "south": { "texture": "#world_importer_base", "uv": [ 10, 0, 10.6, 0.308 ] },
+                "west": { "texture": "#world_importer_base", "uv": [ 0, 0, 1.25, 0.308 ] },
+                "up": { "texture": "#world_importer_base", "uv": [ 0, 0, 0.6, 1.25 ] }
+            }
+        },
+        {
+            "name": "West Base",
+            "from": [ 4.3, 1, 4.32 ], 
+            "to": [ 4.8, 1, 11.68 ], 
+            "rotation": { "origin": [ 3.0, 1.0, 8.0 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 11.3, 2.3, 11.8, 9.66 ] }
+            }
+        },
+        {
+            "name": "East Base",
+            "from": [ 11.2, 1, 4.32 ], 
+            "to": [ 11.7, 1, 11.68 ], 
+            "rotation": { "origin": [ 13.0, 1.0, 8.0 ], "axis": "z", "angle": -45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 10.7, 2.3, 11.2, 9.66 ] }
+            }
+        },
+        {
+            "name": "North base",
+            "from": [ 4.32, 1, 4.3 ], 
+            "to": [ 11.68, 1, 4.8 ], 
+            "rotation": { "origin": [ 8.0, 1.0, 3.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 0.3, 11.3, 7.66, 11.8 ] }
+            }
+        },
+        {
+            "name": "South Base",
+            "from": [ 4.32, 1, 11.2 ], 
+            "to": [ 11.68, 1, 11.7 ], 
+            "rotation": { "origin": [ 8.0, 1.0, 13.0 ], "axis": "x", "angle": 45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 0.3, 10.5, 7.66, 11 ] }
+            }
+        },
+        {
+            "name": "West Base",
+            "from": [ 4.8, 1, 4.72 ], 
+            "to": [ 5.2, 1, 11.28 ], 
+            "rotation": { "origin": [ 3.0, 1.0, 8.0 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 11.3, 2.7, 11.7, 9.26 ] }
+            }
+        },
+        {
+            "name": "West Base",
+            "from": [ 5.2, 1, 5.02 ], 
+            "to": [ 5.7, 1, 10.98 ], 
+            "rotation": { "origin": [ 3.0, 1.0, 8.0 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 10.8, 3, 11.3, 8.96 ] }
+            }
+        },
+        {
+            "name": "West Base",
+            "from": [ 5.7, 1, 5.32 ], 
+            "to": [ 6.5, 1, 10.68 ], 
+            "rotation": { "origin": [ 3.0, 1.0, 8.0 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 10.8, 3.3, 11.6, 8.66 ] }
+            }
+        },
+        {
+            "name": "West Base",
+            "from": [ 6.5, 1, 5.92 ], 
+            "to": [ 6.97, 1, 10.08 ], 
+            "rotation": { "origin": [ 3.0, 1.0, 8.0 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 10.6, 3.9, 11.07, 8.06 ] }
+            }
+        },
+        {
+            "name": "East Base",
+            "from": [ 10.8, 1, 4.72 ], 
+            "to": [ 11.2, 1, 11.28 ], 
+            "rotation": { "origin": [ 13.0, 1.0, 8.0 ], "axis": "z", "angle": -45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 10.8, 2.7, 11.2, 9.26 ] }
+            }
+        },
+        {
+            "name": "East Base",
+            "from": [ 10.4, 1, 4.92 ], 
+            "to": [ 10.8, 1, 11.08 ], 
+            "rotation": { "origin": [ 13.0, 1.0, 8.0 ], "axis": "z", "angle": -45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 10.9, 2.9, 11.3, 9.06 ] }
+            }
+        },
+        {
+            "name": "East Base",
+            "from": [ 10, 1, 5.22 ], 
+            "to": [ 10.4, 1, 10.88 ], 
+            "rotation": { "origin": [ 13.0, 1.0, 8.0 ], "axis": "z", "angle": -45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 11, 3.2, 11.4, 8.86 ] }
+            }
+        },
+        {
+            "name": "East Base",
+            "from": [ 9.5, 1, 5.52 ], 
+            "to": [ 10, 1, 10.48 ], 
+            "rotation": { "origin": [ 13.0, 1.0, 8.0 ], "axis": "z", "angle": -45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 11, 3.5, 11.5, 8.46 ] }
+            }
+        },
+        {
+            "name": "East Base",
+            "from": [ 9.03, 1, 5.92 ], 
+            "to": [ 9.5, 1, 10.08 ], 
+            "rotation": { "origin": [ 13.0, 1.0, 8.0 ], "axis": "z", "angle": -45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 10.5, 3.9, 10.97, 8.06 ] }
+            }
+        },
+        {
+            "name": "North base",
+            "from": [ 4.72, 1, 4.8 ], 
+            "to": [ 11.28, 1, 5.2 ], 
+            "rotation": { "origin": [ 8.0, 1.0, 3.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 0.7, 10.8, 7.26, 11.2 ] }
+            }
+        },
+        {
+            "name": "North base",
+            "from": [ 4.92, 1, 5.2 ], 
+            "to": [ 11.08, 1, 5.6 ], 
+            "rotation": { "origin": [ 8.0, 1.0, 3.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 0.9, 11.8, 7.06, 12.2 ] }
+            }
+        },
+        {
+            "name": "North base",
+            "from": [ 5.22, 1, 5.6 ], 
+            "to": [ 10.78, 1, 6 ], 
+            "rotation": { "origin": [ 8.0, 1.0, 3.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 1.2, 12.2, 6.76, 12.6 ] }
+            }
+        },
+        {
+            "name": "North base",
+            "from": [ 5.52, 1, 6 ], 
+            "to": [ 10.48, 1, 6.5 ], 
+            "rotation": { "origin": [ 8.0, 1.0, 3.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 1.5, 12.1, 6.46, 12.6 ] }
+            }
+        },
+        {
+            "name": "North base",
+            "from": [ 5.82, 1, 6.5 ], 
+            "to": [ 10.08, 1, 6.955 ], 
+            "rotation": { "origin": [ 8.0, 1.0, 3.0 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 1.8, 12.1, 6.06, 12.555 ] }
+            }
+        },
+        {
+            "name": "South Base",
+            "from": [ 4.72, 1, 10.8 ], 
+            "to": [ 11.28, 1, 11.2 ], 
+            "rotation": { "origin": [ 8.0, 1.0, 13.0 ], "axis": "x", "angle": 45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 0.7, 10.1, 7.26, 10.5 ] }
+            }
+        },
+        {
+            "name": "South Base",
+            "from": [ 4.92, 1, 10.4 ], 
+            "to": [ 11.08, 1, 10.8 ], 
+            "rotation": { "origin": [ 8.0, 1.0, 13.0 ], "axis": "x", "angle": 45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 0.9, 10.8, 7.06, 11.2 ] }
+            }
+        },
+        {
+            "name": "South Base",
+            "from": [ 5.22, 1, 10 ], 
+            "to": [ 10.78, 1, 10.4 ], 
+            "rotation": { "origin": [ 8.0, 1.0, 13.0 ], "axis": "x", "angle": 45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 1.2, 10.4, 6.76, 10.8 ] }
+            }
+        },
+        {
+            "name": "South Base",
+            "from": [ 5.52, 1, 9.5 ], 
+            "to": [ 10.48, 1, 10 ], 
+            "rotation": { "origin": [ 8.0, 1.0, 13.0 ], "axis": "x", "angle": 45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 1.5, 10.4, 6.46, 10.9 ] }
+            }
+        },
+        {
+            "name": "South Base",
+            "from": [ 5.92, 1, 9.05 ], 
+            "to": [ 10.08, 1, 9.55 ], 
+            "rotation": { "origin": [ 8.0, 1.0, 13.0 ], "axis": "x", "angle": 45.0 },
+            "faces": {
+                "up": { "texture": "#world_importer_base", "uv": [ 1.9, 10.5, 6.06, 11 ] }
+            }
+        }
+    ]
+}
