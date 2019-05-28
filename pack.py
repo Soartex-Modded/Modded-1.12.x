@@ -2,7 +2,7 @@ import os
 import zipfile
 
 
-zip_file = zipfile.ZipFile('modded-1-12-2.zip', 'w', zipfile.ZIP_DEFLATED)
+zip_file = zipfile.ZipFile('Soartex-Modded-1-12-2.zip', 'w', zipfile.ZIP_DEFLATED)
 
 for root,dirs,files in os.walk('.'):
     relative_path = root[2:]
