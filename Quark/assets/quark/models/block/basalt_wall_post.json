@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/wall_post",
+	"textures": {
+		"wall": "soartex_base:blocks/stone/basalt/raw"
+	}
+}
