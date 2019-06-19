@@ -1,2 +1,3 @@
 Issues with Item textures:
 - Many missing item textures
+-- Morb, reservoir and satchel textures missing
