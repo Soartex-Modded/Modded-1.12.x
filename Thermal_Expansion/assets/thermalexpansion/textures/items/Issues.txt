@@ -1,0 +1,2 @@
+Issues with Item textures:
+- Many missing item textures
