@@ -1,4 +1,0 @@
-Current issues within GUI textures:
-- "Crush" overlay on igenous extruder not linking to correct texture within CoFH Core mod.
-- JEI Handler png not updated to Soartex, simply upscaled from original
-- many machine GUI's missing or broken
