@@ -2,3 +2,5 @@ Issues within T.E. block textures:
 
 /apparatus/ - active_collector + mcmeta missing; face_collector missing
 /device/ - too many missing textures to list
+/dynamo/ - couple of missing textures + mcmetas
+/machine/ - many machine textures missing + mcmetas.
