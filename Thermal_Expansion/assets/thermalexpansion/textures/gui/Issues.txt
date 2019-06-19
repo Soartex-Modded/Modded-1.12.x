@@ -1,0 +1,3 @@
+Current issues within GUI textures:
+- Pulverizer "bubbles" miss-aligned.
+- "Crush" overlay not linking to correct texture within CoFH Core mod.
