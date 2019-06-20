@@ -1,0 +1,9 @@
+{
+    "mod_id": "tmechworks",
+    "mod_name": "Tinkers Mechworks",
+    "mod_dir": "/Tinkers_Mechworks/",
+    "mod_version": "1.0.0",
+    "mc_version": "1.12.x",
+    "url_website": "https://minecraft.curseforge.com/projects/tinkers-mechworks-fork",
+    "description": "Mechworks is an addon for Tinkers' Construct with some interesting mechanical tidbits."
+  }
