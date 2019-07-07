@@ -1,7 +1,7 @@
 {
-  "mod_id": "Gregtech",
+  "mod_id": "gregtech",
   "mod_name": "GregTech Community Edition",
-  "mod_dir": "/Gregtech/",
+  "mod_dir": "/GregTech/",
   "mod_version": "1.8.4.419",
   "mc_version": "1.12.2",
   "mod_authors": ["archengius", "exidex", "GregoriusT"],
