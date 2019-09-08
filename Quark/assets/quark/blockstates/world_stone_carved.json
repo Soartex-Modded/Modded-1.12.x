@@ -1,0 +1,15 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "minecraft:cube_all",
+		"transform": "forge:default-block"
+	},
+	"variants": {
+		"variant=stone_diorite_carved": [{ "textures": { "all": "quark:blocks/stone_diorite_carved" } }],
+		"variant=stone_granite_carved": [{ "textures": { "all": "quark:blocks/stone_granite_carved" } }],
+		"variant=stone_andesite_carved": [{ "textures": { "all": "quark:blocks/stone_andesite_carved" } }],
+		"variant=stone_basalt_carved": [{ "textures": { "all": "soartex_base:blocks/stone/basalt/chiseled" } }],
+		"variant=stone_marble_carved": [{ "textures": { "all": "soartex_base:blocks/stone/marble/chiseled" } }],
+		"variant=stone_limestone_carved": [{ "textures": { "all": "quark:blocks/stone_limestone_carved" } }]
+	}
+}

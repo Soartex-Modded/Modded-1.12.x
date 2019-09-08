@@ -1,0 +1,10 @@
+{
+  "mod_id": "bigreactors",
+  "mod_name": "Extreme Reactors",
+  "mod_dir": "/Extreme_Reactors/",
+  "mod_version": "0.4.5.45",
+  "mc_version": "1.12.2",
+  "mod_authors": ["ZeroNoRyouki", "ABookFreak"],
+  "url_website": "https://minecraft.curseforge.com/projects/extreme-reactors",
+  "description": "Giants Reactors to harness the power of the atom or mighty Turbines to turn steam into energy? Why not both?"
+}

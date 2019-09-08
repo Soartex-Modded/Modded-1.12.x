@@ -1,0 +1,41 @@
+{  
+    "forge_marker":1,
+    "defaults": {
+		"model": "builtin/generated",
+		"transform": "forge:default-item"
+	},
+    "variants":{  
+        "metal":{  
+            "yellorium":{  
+                "textures":{
+					"layer0":"bigreactors:items/ingotyellorium"
+                }
+            },
+			"cyanite":{  
+                "textures":{
+					"layer0":"bigreactors:items/ingotcyanite"
+                }
+            },
+			"graphite":{  
+                "textures":{
+					"layer0":"soartex_base:items/ingot/hop_graphite"
+                }
+            },
+			"blutonium":{  
+                "textures":{
+					"layer0":"bigreactors:items/ingotblutonium"
+                }
+            },
+			"ludicrite":{  
+                "textures":{
+					"layer0":"bigreactors:items/ingotludicrite"
+                }
+            },
+			"steel":{  
+                "textures":{
+					"layer0":"soartex_base:items/ingot/steel"
+                }
+            }			
+        }
+    }
+}

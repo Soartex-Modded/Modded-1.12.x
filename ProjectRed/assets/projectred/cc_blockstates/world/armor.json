@@ -1,0 +1,78 @@
+{
+  "ccl_marker": 1,
+  "variant_sets" : [
+    "type"
+  ],
+  "texture_domain" : "projectred",
+  "defaults": {
+    "model": "builtin/generated",
+    "textures": {
+      "layer0": "minecraft:blocks/dirt"
+    },
+    "transform": "ccl:default-item"
+  },
+  "variants": {
+    "type": {
+      "ruby_helmet": {
+        "textures": {
+          "layer0": "soartex_base:items/armor/ruby/helmet"
+        }
+      },
+      "ruby_chestplate": {
+        "textures": {
+          "layer0": "soartex_base:items/armor/ruby/chestplate"
+        }
+      },
+      "ruby_leggings": {
+        "textures": {
+          "layer0": "soartex_base:items/armor/ruby/leggings"
+        }
+      },
+      "ruby_boots": {
+        "textures": {
+          "layer0": "soartex_base:items/armor/ruby/boots"
+        }
+      },
+      "sapphire_helmet": {
+        "textures": {
+          "layer0": "soartex_base:items/armor/sapphire_blue/helmet"
+        }
+      },
+      "sapphire_chestplate": {
+        "textures": {
+          "layer0": "soartex_base:items/armor/sapphire_blue/chestplate"
+        }
+      },
+      "sapphire_leggings": {
+        "textures": {
+          "layer0": "soartex_base:items/armor/sapphire_blue/leggings"
+        }
+      },
+      "sapphire_boots": {
+        "textures": {
+          "layer0": "soartex_base:items/armor/sapphire_blue/boots"
+        }
+      },
+      "peridot_helmet": {
+        "textures": {
+          "layer0": "soartex_base:items/armor/peridot/helmet"
+        }
+      },
+      "peridot_chestplate": {
+        "textures": {
+          "layer0": "soartex_base:items/armor/peridot/chestplate"
+        }
+      },
+      "peridot_leggings": {
+        "textures": {
+          "layer0": "soartex_base:items/armor/peridot/leggings"
+        }
+      },
+      "peridot_boots": {
+        "textures": {
+          "layer0": "soartex_base:items/armor/peridot/boots"
+        }
+      }
+    }
+  }
+}

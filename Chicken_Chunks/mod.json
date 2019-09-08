@@ -1,0 +1,10 @@
+{
+  "mod_id": "chickenchunks",
+  "mod_name": "Chicken Chunks",
+  "mod_dir": "/Chicken_Chunks/",
+  "mod_version": "2.4.1.71",
+  "mc_version": "1.12.2",
+  "mod_authors": ["chicken_bones", "covers1624"],
+  "url_website": "https://minecraft.curseforge.com/projects/chicken-chunks-1-8",
+  "description": "Advanced chunk-loading management."
+}

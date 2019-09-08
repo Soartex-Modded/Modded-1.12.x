@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/wall_side",
+	"textures": {
+		"wall": "soartex_base:blocks/stone/basalt/bricks"
+	}
+}

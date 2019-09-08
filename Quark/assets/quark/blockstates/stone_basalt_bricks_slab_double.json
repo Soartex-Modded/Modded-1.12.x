@@ -1,0 +1,11 @@
+{
+"forge_marker": 1,
+"defaults": {
+	"model": "minecraft:cube_all",
+	"transform": "forge:default-block"
+},
+	"variants": {
+		"normal": [{ "textures": { "all": "soartex_base:blocks/stone/basalt/bricks" } }],
+		"prop=blarg": [{ "textures": { "all": "soartex_base:blocks/stone/basalt/bricks" } }]
+	}
+}

@@ -1,0 +1,10 @@
+{
+  "mod_id": "Thaumcraft",
+  "mod_name": "Thaumcraft",
+  "mod_dir": "/Thaumcraft/",
+  "mod_version": "v6.1-beta13",
+  "mc_version": "1.12.2",
+  "mod_authors": ["Azanor"],
+  "url_website": "https://minecraft.curseforge.com/projects/thaumcraft",
+  "description": "It is all about: Drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles."
+}

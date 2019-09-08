@@ -1,0 +1,6 @@
+{
+	"parent": "ic2:item/tool/default",
+	"textures": {
+		"layer0": "soartex_base:items/tool/bronze/sword"
+	}
+}
