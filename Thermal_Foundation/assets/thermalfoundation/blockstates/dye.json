@@ -1,0 +1,94 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "builtin/generated",
+		"textures": {
+			"layer0": "blocks/dirt"
+		},
+		"transform": "forge:default-item"
+	},
+	"variants": {
+		"type": {
+			"dyeblack": {
+				"textures": {
+					"layer0": "soartex_base:items/dye/dye_powder"
+				}
+			},
+			"dyered": {
+				"textures": {
+					"layer0": "soartex_base:items/dye/dye_powder"
+				}
+			},
+			"dyegreen": {
+				"textures": {
+					"layer0": "soartex_base:items/dye/dye_powder"
+				}
+			},
+			"dyebrown": {
+				"textures": {
+					"layer0": "soartex_base:items/dye/dye_powder"
+				}
+			},
+			"dyeblue": {
+				"textures": {
+					"layer0": "soartex_base:items/dye/dye_powder"
+				}
+			},
+			"dyepurple": {
+				"textures": {
+					"layer0": "soartex_base:items/dye/dye_powder"
+				}
+			},
+			"dyecyan": {
+				"textures": {
+					"layer0": "soartex_base:items/dye/dye_powder"
+				}
+			},
+			"dyelightgray": {
+				"textures": {
+					"layer0": "soartex_base:items/dye/dye_powder"
+				}
+			},
+			"dyegray": {
+				"textures": {
+					"layer0": "soartex_base:items/dye/dye_powder"
+				}
+			},
+			"dyepink": {
+				"textures": {
+					"layer0": "soartex_base:items/dye/dye_powder"
+				}
+			},
+			"dyelime": {
+				"textures": {
+					"layer0": "soartex_base:items/dye/dye_powder"
+				}
+			},
+			"dyeyellow": {
+				"textures": {
+					"layer0": "soartex_base:items/dye/dye_powder"
+				}
+			},
+			"dyelightblue": {
+				"textures": {
+					"layer0": "soartex_base:items/dye/dye_powder"
+				}
+			},
+			"dyemagenta": {
+				"textures": {
+					"layer0": "soartex_base:items/dye/dye_powder"
+				}
+			},
+			"dyeorange": {
+				"textures": {
+					"layer0": "soartex_base:items/dye/dye_powder"
+				}
+			},
+			"dyewhite": {
+				"textures": {
+					"layer0": "soartex_base:items/dye/dye_powder"
+				}
+			}
+		}
+	}
+}

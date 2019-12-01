@@ -414,6 +414,16 @@
           "layer0": "soartex_base:items/gear/enderium"
         }
       },
+	  "geardiamond": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/diamond"
+        }
+      },
+	  "gearemerald": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/emerald"
+        }
+      },
       "plateiron": {
         "textures": {
           "layer0": "soartex_base:items/plate/iron"
