@@ -319,6 +319,16 @@
           "layer0": "soartex_base:items/nugget/enderium"
         }
       },
+	  "gearwood": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/wood"
+        }
+      },
+	  "gearstone": {
+        "textures": {
+          "layer0": "soartex_base:items/gear/stone"
+        }
+      },
       "geariron": {
         "textures": {
           "layer0": "soartex_base:items/gear/iron"
