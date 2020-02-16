@@ -1,0 +1,10 @@
+{
+  "mod_id": "TerraFirmaCraft",
+  "mod_name": "TerraFirmaCraft",
+  "mod_dir": "/TerraFirmaCraft/",
+  "mod_version": "0.29.1.116",
+  "mc_version": "1.12.2",
+  "mod_authors": ["Dries007", "Bunsan", "AlcatrazEscapee", "dunkleosteus"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/tfcraft",
+  "description": "“Survival Mode as it should have been.” You’ve seen the quote alongside the logo, but what exactly does it mean? What is the true point of TFC?"
+}
