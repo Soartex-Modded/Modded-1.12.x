@@ -1,2 +1,0 @@
-gate_expansion_light_sensor.png
-gate_material_quartz.png

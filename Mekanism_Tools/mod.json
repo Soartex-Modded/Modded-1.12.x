@@ -1,0 +1,10 @@
+{
+  "mod_id": "MekanismTools",
+  "mod_name": "Mekanism Tools",
+  "mod_dir": "/Mekanism_Tools/",
+  "mod_version": "v9.6.7.360",
+  "mc_version": "1.12.2",
+  "mod_authors": ["aidancbrady"],
+  "url_website": "http://aidancbrady.com/mekanism/",
+  "description": "Energy, Armor, Tools, Weapons, Machines, Magic."
+}
