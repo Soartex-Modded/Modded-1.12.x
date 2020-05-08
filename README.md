@@ -9,8 +9,8 @@ with scripts and made available in the patcher and on the downloads page!
 - [Downloads](http://soartex.net/downloads/)
 - [License](http://soartex.net/license/#fanver)
 
-[![Issue Stats](http://issuestats.com/github/soartex-modded/modded-1.12.x/badge/pr?style=flat)](http://issuestats.com/github/soartex-modded/modded-1.12.x)
-[![Issue Stats](http://issuestats.com/github/soartex-modded/modded-1.12.x/badge/issue?style=flat)](http://issuestats.com/github/soartex-modded/modded-1.12.x)
+![shields.io](https://img.shields.io/github/issues-pr-raw/soartex-modded/modded-1.12.x?style=flat-square)
+![shields.io](https://img.shields.io/github/issues/soartex-modded/modded-1.12.x?style=flat-square)
 
 ### Goals
 * Relaxed, fun, community learning and texturing environment
