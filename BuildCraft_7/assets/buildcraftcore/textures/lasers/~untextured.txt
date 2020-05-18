@@ -1,0 +1,4 @@
+power_full.png
+power_high.png
+power_low.png
+power_med.png

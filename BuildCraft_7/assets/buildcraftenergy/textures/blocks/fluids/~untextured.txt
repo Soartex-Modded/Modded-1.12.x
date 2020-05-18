@@ -1,0 +1,7 @@
+fuel_still.png
+heat_0_flow.png
+heat_0_still.png
+heat_1_flow.png
+heat_1_still.png
+heat_2_flow.png
+heat_2_still.png
