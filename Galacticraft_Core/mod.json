@@ -1,10 +1,13 @@
 {
-  "mod_id": "galacticraftcore",
-  "mod_name": "Galacticraft Core",
-  "mod_dir": "/Galacticraft_Core/",
-  "mod_version": "v4.0.1.136",
-  "mc_version": "1.12.2",
-  "mod_authors": ["micdoodle8"],
-  "url_website": "https://micdoodle8.com/mods/galacticraft",
-  "description": "Core lib and utils for Galacticraft."
+    "mod_filename": "GalacticraftCore-1.12.2-4.0.2.211.jar",
+    "mod_name": "Galacticraft Core",
+    "mod_id": "galacticraftcore",
+    "mod_version": "v4.0.1.136",
+    "mc_version": "1.12.2",
+    "url_website": "https://micdoodle8.com/mods/galacticraft",
+    "description": "Core lib and utils for Galacticraft.",
+    "mod_dir": "/Galacticraft_Core/",
+    "mod_authors": [
+        "micdoodle8"
+    ]
 }

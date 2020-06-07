@@ -1,10 +1,14 @@
 {
-  "mod_id": "quark",
-  "mod_name": "Quark",
-  "mod_dir": "/Quark/",
-  "mod_version": "r1.5-146",
-  "mc_version": "1.12.2",
-  "mod_authors": ["Vazkii, wiiv"],
-  "url_website": "https://minecraft.curseforge.com/projects/quark",
-  "description": "A fully modular mod with the objective of improving the vanilla gameplay experience."
+    "mod_id": "quark",
+    "mod_name": "Quark",
+    "mod_filename": "Quark-r1.6-179.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "Vazkii",
+        "wiresegal"
+    ],
+    "url_website": "http://www.vazkii.us",
+    "description": "A Quark is a very small thing. This mod is a collection of small things that improve the vanilla minecraft experience.",
+    "mod_version": "r1.6-179",
+    "mod_dir": "/Quark/"
 }
