@@ -1,0 +1,13 @@
+{
+    "mod_id": "simply-jetpacks",
+    "mod_name": "Simply Jetpacks",
+    "mod_filename": "SimplyJetpacks-MC1.7.10-1.5.3.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "Tomson124"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/simply-jetpacks-2",
+    "description": "RF powered, tier based Jetpacks",
+    "mod_version": "2.2.3.33",
+    "mod_dir": "/Simply_Jetpacks/"
+}

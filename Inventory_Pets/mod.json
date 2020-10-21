@@ -1,0 +1,13 @@
+{
+    "mod_id": "inventory-pets",
+    "mod_name": "Inventory Pets",
+    "mod_filename": "inventorypets-1.12-2.0.6.jar",
+    "mc_version": "1.12",
+    "mod_authors": [
+        "Purplicious_Cow_"
+    ],
+    "url_website": "",
+    "description": "Inventory Pets are living animated creatures that exist in your inventory and give you amazing special effects, drops, buffs, utilities, defenses, and weapons in exchange for care and feeding.",
+    "mod_version": "2.0.6",
+    "mod_dir": "/Inventory_Pets/"
+}

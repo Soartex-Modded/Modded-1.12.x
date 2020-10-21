@@ -1,10 +1,16 @@
 {
-  "mod_id": "MekanismTools",
-  "mod_name": "Mekanism Tools",
-  "mod_dir": "/Mekanism_Tools/",
-  "mod_version": "v9.6.7.360",
-  "mc_version": "1.12.2",
-  "mod_authors": ["aidancbrady"],
-  "url_website": "http://aidancbrady.com/mekanism/",
-  "description": "Energy, Armor, Tools, Weapons, Machines, Magic."
+    "mod_id": "MekanismTools",
+    "mod_name": "Mekanism Tools",
+    "mod_filename": "MekanismTools-1.12.2-9.8.3.390.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "bradyaidanc",
+        "Thiakil",
+        "pupnewfster",
+        "thommy101"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/mekanism-tools",
+    "description": "Powerful tools and armor for Mekanism.",
+    "mod_version": "1.12.2-9.8.3.390",
+    "mod_dir": "/Mekanism_Tools/"
 }

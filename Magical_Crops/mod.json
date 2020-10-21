@@ -1,0 +1,12 @@
+{
+    "mod_name": "Magical Crops",
+    "mod_id": "magicalcrops",
+    "mod_version": "1.0.2",
+    "mc_version": "1.12.2",
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/magical-crops-core",
+    "description": "A Magical farming mod that allows you to grow and harvest all type of Minecraft resources. Also a massive thank you to the Painterly Pack team for giving me permission to use and edit some of there fantastic Minecraft textures!",
+    "mod_dir": "/Magical_Crops/",
+    "mod_authors": [
+        "Mark719"
+    ]
+}

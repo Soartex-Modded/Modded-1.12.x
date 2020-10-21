@@ -1,0 +1,9 @@
+{
+    "mod_name": "Base Metals",
+    "mod_id": "basemetals",
+    "mod_version": "2.5.0-beta3",
+    "mc_version": "1.12.1",
+    "url_website": "https://github.com/MineCraftModDevelopment/BaseMetals",
+    "description": "This mod adds historically common metals to Minecraft",
+    "mod_dir": "/Base_Metals/"
+}

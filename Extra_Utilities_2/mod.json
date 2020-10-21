@@ -1,10 +1,12 @@
 {
-  "mod_id": "extrautils2",
-  "mod_name": "Extra Utilities 2",
-  "mod_dir": "/Extra_Utilities_2/",
-  "mod_version": "1.7.2",
-  "mc_version": "1.12.2",
-  "mod_authors": ["RWTema"],
-  "url_website": "https://minecraft.curseforge.com/projects/extra-utilities",
-  "description": "Just a bunch of fairly useful things."
+    "mod_id": "extrautils2",
+    "mod_name": "Extra Utilities 2",
+    "mod_filename": "extrautils2-1.12-1.9.9.jar",
+    "mc_version": "1.12",
+    "mod_authors": [
+        "RWTema"
+    ],
+    "description": "Just a bunch of useful things",
+    "mod_version": "1.9.9",
+    "mod_dir": "/Extra_Utilities_2/"
 }

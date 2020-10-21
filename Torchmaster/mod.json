@@ -1,0 +1,13 @@
+{
+    "mod_name": "TorchMaster",
+    "mod_id": "torchmaster",
+    "mod_version": "1.8.0.79",
+    "mc_version": "[1.12,1.13)",
+    "url_website": "",
+    "description": "Adds a special torch which prevents mobs from spawning in a configurable range",
+    "mod_filename": "torchmaster_1.10.2-1.4.0.32.jar",
+    "mod_authors": [
+        "xalcon"
+    ],
+    "mod_dir": "/Torchmaster/"
+}

@@ -1,0 +1,9 @@
+{
+    "mod_name": "DeepResonance",
+    "mod_id": "deepresonance",
+    "mod_version": "1.12-1.8.0",
+    "mc_version": "1.12.2",
+    "url_website": "",
+    "description": "Power generation based on resonanting crystals",
+    "mod_dir": "/DeepResonance/"
+}

@@ -1,0 +1,13 @@
+{
+    "mod_id": "trinkets-and-baubles",
+    "mod_name": "Trinkets and Baubles",
+    "mod_filename": "Trinkets and Baubles-1.12.2-0.30-Pre-release-1.5.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "XzeroAir"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/trinkets-and-baubles",
+    "description": "Addon for the Baubles Mod by Azanor",
+    "mod_version": "0.31",
+    "mod_dir": "/Trinkets_and_Baubles/"
+}

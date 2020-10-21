@@ -1,0 +1,13 @@
+{
+    "mod_id": "oreberries",
+    "mod_name": "Oreberries",
+    "mod_filename": "oreberries-1.12.x-0.5.0.jar",
+    "mc_version": "1.12.1",
+    "mod_authors": [
+        "josephcsible"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/oreberries",
+    "description": "Bring back a configurable version of 1.7.10 Tinkers' Construct oreberries",
+    "mod_version": "0.5.0",
+    "mod_dir": "/Oreberries/"
+}

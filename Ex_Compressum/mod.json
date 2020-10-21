@@ -1,0 +1,13 @@
+{
+    "mod_id": "ex-compressum",
+    "mod_name": "Ex Compressum",
+    "mod_filename": "ExCompressum_1.12.2-3.0.32.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "BlayTheNinth"
+    ],
+    "url_website": "",
+    "description": "Ex Nihilo Addon. Attempts to reduce grind by adding pre-automation tools like compressed hammers.",
+    "mod_version": "3.0.32",
+    "mod_dir": "/Ex_Compressum/"
+}

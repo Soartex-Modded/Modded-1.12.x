@@ -1,10 +1,13 @@
 {
-  "mod_id": "enderstorage",
-  "mod_name": "Ender Storage",
-  "mod_dir": "/Ender_Storage/",
-  "mod_version": "4.0.122",
-  "mc_version": "1.12",
-  "mod_authors": ["covers1624"],
-  "url_website": "https://minecraft.curseforge.com/projects/ender-storage-1-8",
-  "description": "These chests link together based on matching color patterns"
+    "mod_name": "Ender Storage",
+    "mod_id": "enderstorage",
+    "mod_version": "2.4.5.135",
+    "mc_version": "1.12.2",
+    "url_website": "http://www.minecraftforum.net/topic/909223",
+    "description": "Stores your stuff in the END!",
+    "mod_filename": "EnderStorage-1.10.2-2.2.1.106-universal.jar",
+    "mod_dir": "/Ender_Storage/",
+    "mod_authors": [
+        "covers1624"
+    ]
 }

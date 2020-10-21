@@ -1,0 +1,11 @@
+{
+    "mod_filename": "IGW-Mod-1.12.2-1.4.0-6-universal.jar",
+    "mod_id": "in-game-wiki-mod",
+    "mod_name": "In-Game Wiki Mod",
+    "mod_authors": [
+        "minemaarten2"
+    ],
+    "url_website": "www.minemaarten.com",
+    "description": "A utility mod that allows for other mods to easily include in-game documentation",
+    "mod_dir": "/In_Game_Wiki/"
+}

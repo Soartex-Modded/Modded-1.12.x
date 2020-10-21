@@ -1,0 +1,15 @@
+{
+    "mod_id": "thaumicenergistics",
+    "mod_name": "Thaumic Energistics",
+    "mod_filename": "thaumicenergistics-2.2.0.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "nividica",
+        "TheRealp455w0rd",
+        "BrockWS"
+    ],
+    "url_website": "http://minecraft.curseforge.com/projects/thaumic-energistics",
+    "description": "Essentia management in storage, transportation, and application",
+    "mod_version": "2.2.0",
+    "mod_dir": "/Thaumic_Energistics/"
+}

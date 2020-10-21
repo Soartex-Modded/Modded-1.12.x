@@ -1,0 +1,13 @@
+{
+    "mod_id": "slab-machines",
+    "mod_name": "Slab Machines",
+    "mod_filename": "Slab_Machines-1.0.7.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "Mrbysco"
+    ],
+    "url_website": "",
+    "description": "Your regular machines but half the size! ",
+    "mod_version": "1.0.7",
+    "mod_dir": "/Slab_Machines/"
+}

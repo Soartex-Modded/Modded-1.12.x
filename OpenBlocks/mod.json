@@ -1,10 +1,16 @@
 {
-  "mod_id": "OpenBlocks",
-  "mod_name": "OpenBlocks",
-  "mod_dir": "/OpenBlocks/",
-  "mod_version": "v1.7.4",
-  "mc_version": "1.12.2",
-  "mod_authors": ["Mikee", "NeverCast", "boq", "Lyqyd"],
-  "url_website": "http://www.openperipheral.info",
-  "description": "All the things you never thought you will ever need."
+    "mod_name": "OpenBlocks",
+    "mod_id": "OpenBlocks",
+    "mod_version": "1.8.1",
+    "mc_version": "1.12.2",
+    "url_website": "http://openmods.info/",
+    "description": "All the things you never thought you will ever need",
+    "mod_filename": "OpenBlocks-1.10.2-1.7.1.jar",
+    "mod_authors": [
+        "Mikee",
+        "NeverCast",
+        "boq",
+        "Lyqyd"
+    ],
+    "mod_dir": "/OpenBlocks/"
 }

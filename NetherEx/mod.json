@@ -1,10 +1,13 @@
 {
     "mod_id": "nex",
     "mod_name": "NetherEx",
-    "mod_dir": "/NetherEx/",
-    "mod_version": "2.1.14.15",
+    "mod_filename": "NetherEx-1.12.2-2.1.8.jar",
     "mc_version": "1.12.2",
-    "mod_authors": ["LogicTechCorp", "Eleazzaar", "Nazenn", "Vlakk"],
+    "mod_authors": [
+        "LogicTechCorp"
+    ],
     "url_website": "https://minecraft.curseforge.com/projects/netherex",
-    "description": "A Nether expansion, exploration, and experience."
-  }
+    "description": "NetherEx is a Nether overhaul mod for Minecraft. It adds in new biomes, structures, mobs, and more!",
+    "mod_version": "2.1.8",
+    "mod_dir": "/NetherEx/"
+}

@@ -1,0 +1,9 @@
+{
+    "mod_name": "Lucraft: Core",
+    "mod_id": "lucraftcore",
+    "mod_version": "1.12-1.2.3",
+    "mc_version": "1.12",
+    "url_website": "https://minecraft.curseforge.com/projects/lucraft-core",
+    "description": "Core mod for all Lucraft mods.",
+    "mod_dir": "/Lucraft_Core/"
+}

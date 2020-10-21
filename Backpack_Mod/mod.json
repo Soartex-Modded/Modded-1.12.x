@@ -1,0 +1,13 @@
+{
+    "mod_id": "Backpack",
+    "mod_name": "Backpack Mod",
+    "mod_filename": "backpack-3.0.2-1.12.2.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "Eydamos"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/1492661-",
+    "description": "Provides the player with multiple, colorable backpacks",
+    "mod_version": "3.0.2-1.12.2",
+    "mod_dir": "/Backpack_Mod/"
+}

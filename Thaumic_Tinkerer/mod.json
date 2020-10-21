@@ -1,0 +1,13 @@
+{
+    "mod_id": "thaumic-tinkerer",
+    "mod_name": "Thaumic Tinkerer",
+    "mod_filename": "thaumictinkerer-1.12.2-5.0-353c71c.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "Nekosune"
+    ],
+    "url_website": "http://minecraftforum.net/topic/1813058-",
+    "description": "Tinkerering with Thaumic Creations!",
+    "mod_version": "1.12.2-5.0-353c71c",
+    "mod_dir": "/Thaumic_Tinkerer/"
+}

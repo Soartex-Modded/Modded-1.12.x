@@ -1,0 +1,14 @@
+{
+    "mod_id": "rf-lux",
+    "mod_name": "RF Lux",
+    "mod_filename": "rflux-0.0.1.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "romelo333",
+        "McJty"
+    ],
+    "url_website": "",
+    "description": "A mod with RF powered and redstone controlled lights",
+    "mod_version": "1.12-0.3.0-alpha",
+    "mod_dir": "/RF_Lux/"
+}

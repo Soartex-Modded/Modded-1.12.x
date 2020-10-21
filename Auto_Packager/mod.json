@@ -1,0 +1,13 @@
+{
+    "mod_id": "autopackager",
+    "mod_name": "Auto Packager",
+    "mod_filename": "autopackager-1.12.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "smbarbour"
+    ],
+    "url_website": "http://minecraft.curseforge.com/projects/autopackager",
+    "description": "Automated crafting of 2x2 or 3x3 recipes",
+    "mod_version": "1.12",
+    "mod_dir": "/Auto_Packager/"
+}

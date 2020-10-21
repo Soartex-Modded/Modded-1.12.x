@@ -1,0 +1,13 @@
+{
+    "mod_id": "missing-pieces",
+    "mod_name": "Missing Pieces",
+    "mod_filename": "missing_pieces-1.12.2-4.3.0.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "steveboy205"
+    ],
+    "url_website": "",
+    "description": "A collection of blocks that I thought would add to the game.",
+    "mod_version": "4.3.0",
+    "mod_dir": "/Missing_Pieces/"
+}

@@ -1,0 +1,13 @@
+{
+    "mod_id": "morebees",
+    "mod_name": "More Bees",
+    "mod_filename": "morebees-1.12.2-2.0.1.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "Tencao"
+    ],
+    "url_website": "",
+    "description": "Adds More Bees to Forestry",
+    "mod_version": "1.12.2-2.0.1",
+    "mod_dir": "/More_Bees/"
+}

@@ -1,0 +1,13 @@
+{
+    "mod_id": "compactstorage",
+    "mod_name": "Compact Storage",
+    "mod_filename": "CompactStorage-3.1-12.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "tattyseal"
+    ],
+    "url_website": "http:/github.com/tobystrong/CompactStorage/",
+    "description": "Adding 24x12 slot upgradable chests and backpacks",
+    "mod_version": "3.1-12",
+    "mod_dir": "/Compact_Storage/"
+}
