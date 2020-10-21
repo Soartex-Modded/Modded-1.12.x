@@ -1,10 +1,12 @@
 {
-  "mod_id": "Aroma1997sDimension",
-  "mod_name": "Aroma1997s Dimension",
-  "mod_dir": "/Aroma1997s_Dimension/",
-  "mod_version": "2.0.0.2.b90",
-  "mc_version": "1.12.2",
-  "mod_authors": ["Aroma1997"],
-  "url_website": "https://minecraft.curseforge.com/projects/aroma1997s-dimensional-world",
-  "description": "This mod adds a new Dimension especially for mining. It is pretty much like the overworld, just different"
+    "mod_id": "aroma1997sdimension",
+    "mod_name": "Aroma1997s Dimension",
+    "mod_dir": "/Aroma1997s_Dimension/",
+    "mod_version": "2.0.0.2.b90",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "Aroma1997"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/aroma1997s-dimensional-world",
+    "description": "This mod adds a new Dimension especially for mining. It is pretty much like the overworld, just different"
 }

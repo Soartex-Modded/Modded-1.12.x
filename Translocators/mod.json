@@ -4,7 +4,10 @@
     "mod_dir": "/Translocators/",
     "mod_version": "2.5.0",
     "mc_version": "1.12.2",
-    "mod_authors": ["chicken_bones", "covers1624"],
+    "mod_authors": [
+        "chicken_bones",
+        "covers1624"
+    ],
     "url_website": "https://minecraft.curseforge.com/projects/translocators-1-8",
     "description": "This mod adds short range compact item and liquid transport."
-  }
+}

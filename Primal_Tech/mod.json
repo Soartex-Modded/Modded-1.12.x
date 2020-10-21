@@ -4,7 +4,9 @@
     "mod_dir": "/Primal_Tech/",
     "mod_version": "0.2.96",
     "mc_version": "1.12.2",
-    "mod_authors": ["vadis365"],
+    "mod_authors": [
+        "vadis365"
+    ],
     "url_website": "",
     "description": "Primal Technology."
-  }
+}
