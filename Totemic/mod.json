@@ -4,7 +4,10 @@
     "mod_dir": "/Totemic/",
     "mod_version": "v0.9.2",
     "mc_version": "1.12.2",
-	"mod_authors": ["Pokefenn", "ljfa"],
+    "mod_authors": [
+        "Pokefenn",
+        "ljfa"
+    ],
     "url_website": "http://minecraft.curseforge.com/projects/totemic",
     "description": "Totem Poles? Totem Poles!"
-  }
+}

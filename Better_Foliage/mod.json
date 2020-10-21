@@ -1,10 +1,12 @@
 {
-  "mod_id": "betterfoliage",
-  "mod_name": "Better Foliage",
-  "mod_dir": "/Better_Foliage/",
-  "mod_version": "2.1.10",
-  "mc_version": "1.12.1",
-  "mod_authors": ["octarine_noise"],
-  "url_website": "https://minecraft.curseforge.com/projects/better-foliage",
-  "description": "Better Foliage is a Forge mod that will make your Minecraft worlds more impressive, mainly by improving how vegetation looks. It is fully compatible with other visual enhancement mods."
+    "mod_id": "betterfoliage",
+    "mod_name": "Better Foliage",
+    "mod_dir": "/Better_Foliage/",
+    "mod_version": "2.1.10",
+    "mc_version": "1.12.1",
+    "mod_authors": [
+        "octarine_noise"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/better-foliage",
+    "description": "Better Foliage is a Forge mod that will make your Minecraft worlds more impressive, mainly by improving how vegetation looks. It is fully compatible with other visual enhancement mods."
 }

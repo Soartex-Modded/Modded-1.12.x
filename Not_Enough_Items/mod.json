@@ -4,7 +4,10 @@
     "mod_dir": "/Not_Enough_Items/",
     "mod_version": "4.0.231",
     "mc_version": "1.12.x",
-    "mod_authors": ["covers1624", "ChickenBones"],
+    "mod_authors": [
+        "covers1624",
+        "ChickenBones"
+    ],
     "url_website": "https://minecraft.curseforge.com/projects/not-enough-items-1-8",
     "description": "Recipe Viewer, Inventory Manager, Item Spawner, Cheats and more!"
-  }
+}
