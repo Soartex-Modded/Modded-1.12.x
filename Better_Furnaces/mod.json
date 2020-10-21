@@ -1,0 +1,13 @@
+{
+    "mod_id": "FLabsBF",
+    "mod_name": "Better Furnaces",
+    "mod_filename": "MoreFurnaces-1.12.2-1.10.6.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "CubeX2"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/506109-",
+    "description": "Adds 5 furnaces with different abilities to the game",
+    "mod_version": "1.12.2-1.10.6",
+    "mod_dir": "/Better_Furnaces/"
+}

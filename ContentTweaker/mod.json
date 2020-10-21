@@ -1,0 +1,9 @@
+{
+    "mod_name": "ContentTweaker",
+    "mod_id": "contenttweaker",
+    "mod_version": "1.12.2-4.9.1",
+    "mc_version": "1.12.2",
+    "url_website": "teamacronymcoders.com",
+    "description": "Custom Minecraft Objects created from CraftTweaker scripts",
+    "mod_dir": "/ContentTweaker/"
+}

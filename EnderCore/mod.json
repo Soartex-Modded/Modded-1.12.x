@@ -1,0 +1,15 @@
+{
+    "mod_name": "EnderCore",
+    "mod_id": "endercore",
+    "mod_version": "1.12.2-0.5.68",
+    "mc_version": "1.12.2",
+    "url_website": "http://enderio.com",
+    "description": "Library mod used by EnderIO, EnderZoo, and others",
+    "mod_filename": "EnderCore-1.10-0.4.0.33-alpha.jar",
+    "mod_authors": [
+        "tterrag1098",
+        "CrazyPants_MC",
+        "HenryLoenwind"
+    ],
+    "mod_dir": "/EnderCore/"
+}

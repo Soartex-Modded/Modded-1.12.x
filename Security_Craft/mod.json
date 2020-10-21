@@ -1,0 +1,13 @@
+{
+    "mod_filename": "[1.12.2] SecurityCraft v1.8.19.3.jar",
+    "mod_id": "security-craft",
+    "mod_name": "Security Craft",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "Geforce132",
+        "bl4ckscor3"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/security-craft",
+    "description": "SecurityCraft adds loads of different ways to protect your house with!",
+    "mod_dir": "/Security_Craft/"
+}

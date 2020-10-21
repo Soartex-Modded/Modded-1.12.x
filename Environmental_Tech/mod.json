@@ -1,10 +1,13 @@
 {
-  "mod_id": "environmentaltech",
-  "mod_name": "Environmental Tech",
-  "mod_dir": "/Environmental_Tech/",
-  "mod_version": "v2.0.7b",
-  "mc_version": "1.12.2",
-  "mod_authors": ["ValkyrieofNight"],
-  "url_website": "http://minecraft.curseforge.com/projects/environmental-tech",
-  "description": "Environmental Tech is a mod containing a vast selection of multiblock machines."
+    "mod_id": "environmentaltech",
+    "mod_name": "Environmental Tech",
+    "mod_filename": "environmentaltech-1.12.2-2.0.20.1.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "ValkyrieofNight"
+    ],
+    "url_website": "http://minecraft.curseforge.com/projects/environmental-tech",
+    "description": "A Tech mod filled with lots of multiblock machines. All machines run off or generate RF Energy.",
+    "mod_version": "1.12.2-2.0.20.1",
+    "mod_dir": "/Environmental_Tech/"
 }

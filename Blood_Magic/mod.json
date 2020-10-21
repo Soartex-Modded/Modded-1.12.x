@@ -1,10 +1,14 @@
 {
-  "mod_id": "bloodmagic",
-  "mod_name": "Blood Magic",
-  "mod_dir": "/Blood_Magic/",
-  "mod_version": "2.2.12-97",
-  "mc_version": "1.12.2",
-  "mod_authors": ["WayofTime"],
-  "url_website": "https://minecraft.curseforge.com/projects/blood-magic",
-  "description": "Rituals, spells, and more!"
+    "mod_id": "bloodmagic",
+    "mod_name": "Blood Magic",
+    "mod_filename": "BloodMagic-1.12.2-2.3.1-99.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "WayofTime",
+        "TehNut"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/1899223-bloodmagic",
+    "description": "An arcane art for ultimate power",
+    "mod_version": "1.12.2-2.3.1-99",
+    "mod_dir": "/Blood_Magic/"
 }

@@ -1,0 +1,14 @@
+{
+    "mod_name": "MrTJPCore",
+    "mod_id": "mrtjpcore",
+    "mod_version": "2.1.4.43",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "MrTJP",
+        "covers1624"
+    ],
+    "url_website": "...",
+    "description": "Core libs and utilities",
+    "mod_filename": "MrTJPCore-1.1.0.33-universal.jar",
+    "mod_dir": "/MrTJPCore/"
+}

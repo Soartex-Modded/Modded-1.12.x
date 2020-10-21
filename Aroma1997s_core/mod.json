@@ -1,0 +1,12 @@
+{
+    "mod_name": "Aroma1997s Core",
+    "mod_id": "Aroma1997Core",
+    "mod_version": "2.0.0.2",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "Aroma1997, Schillaa"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/1679684-",
+    "description": "This is basically a library used by most my other mods.",
+    "mod_dir": "/Aroma1997s_Core/"
+}

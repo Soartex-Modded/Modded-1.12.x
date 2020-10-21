@@ -1,0 +1,12 @@
+{
+    "mod_name": "Nether_Metals",
+    "mod_id": "NetherMetals",
+    "mod_version": "1.2.0-beta2",
+    "mc_version": "1.12.2",
+    "url_website": "https://github.com/MinecraftModDevelopment/NetherMetals",
+    "description": "Nether Metals is an Addon for the mod Base Metals, it expands it to bring its ores to the Nether dimension.",
+    "mod_dir": "/Nether_Metals/",
+    "mod_authors": [
+        "knoxhack"
+    ]
+}

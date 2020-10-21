@@ -1,10 +1,14 @@
 {
-  "mod_id": "bigreactors",
-  "mod_name": "Extreme Reactors",
-  "mod_dir": "/Extreme_Reactors/",
-  "mod_version": "0.4.5.45",
-  "mc_version": "1.12.2",
-  "mod_authors": ["ZeroNoRyouki", "ABookFreak"],
-  "url_website": "https://minecraft.curseforge.com/projects/extreme-reactors",
-  "description": "Giants Reactors to harness the power of the atom or mighty Turbines to turn steam into energy? Why not both?"
+    "mod_name": "Extreme Reactors",
+    "mod_id": "bigreactors",
+    "mod_version": "1.12.2-0.4.5.67",
+    "mc_version": "1.12.2",
+    "url_website": "http://zerono.it/extreme-reactors",
+    "description": "Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) and Tesla power. This is a port of the 1.7.10 mod Big Reactors from ErogenousBeef",
+    "mod_filename": "ExtremeReactors-1.9.4-0.4.5.6.jar",
+    "mod_authors": [
+        "ZeroNoRyouki",
+        "ABookFreak"
+    ],
+    "mod_dir": "/Extreme_Reactors/"
 }

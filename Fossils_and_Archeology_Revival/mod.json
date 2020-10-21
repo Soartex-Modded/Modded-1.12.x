@@ -1,0 +1,20 @@
+{
+    "mod_id": "fossils",
+    "mod_name": "Fossils and Archeology Revival",
+    "mod_filename": "fossilsarcheology-8.0.4.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "_ForgeUser18449974",
+        "ASDFGirl",
+        "sunconure11",
+        "gegy1000",
+        "tyranno66",
+        "_ForgeUser11902522",
+        "raptorfarian",
+        "alex1the1666"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/fossils",
+    "description": "Adding dinosaurs and archeology into Minecraft!",
+    "mod_version": "8.0.4",
+    "mod_dir": "/Fossils_and_Archeology_Revival/"
+}

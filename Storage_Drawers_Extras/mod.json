@@ -1,0 +1,13 @@
+{
+    "mod_id": "storage-drawers-extras",
+    "mod_name": "Storage Drawers Extras",
+    "mod_filename": "StorageDrawersExtras-1.12-3.1.0.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "Texelsaur"
+    ],
+    "url_website": "http://www.jaquadro.com/",
+    "description": "A unified wood styles addon pack for Storage Drawers",
+    "mod_version": "1.12-3.1.0",
+    "mod_dir": "/Storage_Drawers_Extras/"
+}

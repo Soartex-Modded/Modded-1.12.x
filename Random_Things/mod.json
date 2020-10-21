@@ -1,0 +1,13 @@
+{
+    "mod_id": "RandomThings",
+    "mod_name": "Random Things",
+    "mod_filename": "RandomThings-MC1.12.2-4.2.7.4.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "Lumien231"
+    ],
+    "url_website": "http://minecraft.curseforge.com/mc-mods/59816-random-things",
+    "description": "Random Things adds various miscellaneous items and blocks to minecraft",
+    "mod_version": "4.2.7.4",
+    "mod_dir": "/Random_Things/"
+}

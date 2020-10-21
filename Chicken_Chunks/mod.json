@@ -1,10 +1,14 @@
 {
-  "mod_id": "chickenchunks",
-  "mod_name": "Chicken Chunks",
-  "mod_dir": "/Chicken_Chunks/",
-  "mod_version": "2.4.1.71",
-  "mc_version": "1.12.2",
-  "mod_authors": ["chicken_bones", "covers1624"],
-  "url_website": "https://minecraft.curseforge.com/projects/chicken-chunks-1-8",
-  "description": "Advanced chunk-loading management."
+    "mod_id": "chickenchunks",
+    "mod_name": "Chicken Chunks",
+    "mod_filename": "ChickenChunks-1.12.2-2.4.2.74-universal.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "covers1624",
+        "Chicken_Bones"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/909223",
+    "description": "Chunk load all the chunks with the power of chicken!",
+    "mod_version": "2.4.2.74",
+    "mod_dir": "/Chicken_Chunks/"
 }

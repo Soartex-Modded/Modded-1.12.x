@@ -1,0 +1,15 @@
+{
+    "mod_id": "buildcraft-compat",
+    "mod_name": "Buildcraft Compat",
+    "mod_filename": "buildcraft-compat-7.99.23.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "buildcraftchildsplay",
+        "buildcraftdevteam",
+        "AlexIIL"
+    ],
+    "url_website": "http://www.mod-buildcraft.com/",
+    "description": "BuildCraft Compat is a BuildCraft addon designed to add cross-mod compatibility with other mods.",
+    "mod_version": "7.99.23",
+    "mod_dir": "/Buildcraft_Compat/"
+}

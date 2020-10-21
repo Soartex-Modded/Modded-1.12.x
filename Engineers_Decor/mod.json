@@ -1,0 +1,13 @@
+{
+    "mod_id": "engineers-decor",
+    "mod_name": "Engineer's Decor",
+    "mod_filename": "engineersdecor-1.12.2-1.1.1-b1.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "wilechaote"
+    ],
+    "url_website": "https://github.com/stfwi/engineers-decor/",
+    "description": "Adds cosmetic blocks for the engineer's factory, workshop, and home.",
+    "mod_version": "1.1.1-b1",
+    "mod_dir": "/Engineers_Decor/"
+}

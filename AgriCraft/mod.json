@@ -1,0 +1,13 @@
+{
+    "mod_id": "agricraft",
+    "mod_name": "AgriCraft",
+    "mod_filename": "AgriCraft-2.12.0-1.12.0-a6.jar",
+    "mc_version": "1.12",
+    "mod_authors": [
+        "InfinityRaider"
+    ],
+    "url_website": "http://minecraft.curseforge.com/mc-mods/225635-agricraft",
+    "description": "Agricultural farming extended.",
+    "mod_version": "2.12.0-1.12.0-a6",
+    "mod_dir": "/AgriCraft/"
+}

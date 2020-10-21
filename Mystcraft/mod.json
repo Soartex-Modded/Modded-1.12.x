@@ -1,0 +1,13 @@
+{
+    "mod_id": "Mystcraft",
+    "mod_name": "Mystcraft",
+    "mod_filename": "mystcraft-1.12.2-0.13.7.06.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "XCompWiz"
+    ],
+    "url_website": "http://xcompwiz.com",
+    "description": "Writable Dimensions",
+    "mod_version": "0.13.7.06",
+    "mod_dir": "/Mystcraft/"
+}

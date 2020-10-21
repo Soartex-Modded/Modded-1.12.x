@@ -1,0 +1,14 @@
+{
+    "mod_id": "quantumflux",
+    "mod_name": "QuantumFlux",
+    "mod_filename": "quantumflux-1.12.2-2.0.18.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "FantasyTeddy",
+        "jotato_"
+    ],
+    "url_website": "",
+    "description": "Wireless RF and other gadgets to make gameplay fun",
+    "mod_version": "1.12.2-2.0.18",
+    "mod_dir": "/QuantumFlux/"
+}

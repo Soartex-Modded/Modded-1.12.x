@@ -1,0 +1,14 @@
+{
+    "mod_id": "simple-sponge",
+    "mod_name": "Simple Sponge",
+    "mod_filename": "SimpleSponge-1.12.2-3.6.2.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "Jackyy",
+        "TurkeyDev"
+    ],
+    "url_website": "https://github.com/JackyyTV/SimpleSponge",
+    "description": "A fork of OpenBlocks Sponges with some extra sprinkles!",
+    "mod_version": "3.6.2",
+    "mod_dir": "/Simple_Sponge/"
+}

@@ -1,0 +1,13 @@
+{
+    "mod_id": "no-tree-punching",
+    "mod_name": "No Tree Punching",
+    "mod_filename": "notreepunching-1.4.3beta1.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "AlcatrazEscapee"
+    ],
+    "url_website": "",
+    "description": "A small mod to make the first day or two of play more believable. Adds a few new tools and early game resource gathering.",
+    "mod_version": "1.4.3beta1",
+    "mod_dir": "/No_Tree_Punching/"
+}

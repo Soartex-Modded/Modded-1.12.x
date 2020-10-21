@@ -1,10 +1,12 @@
 {
-  "mod_id": "tcomplement",
-  "mod_name": "Tinkers Complement",
-  "mod_dir": "/Tinkers_Complement/",
-  "mod_version": "0.2.3b",
-  "mc_version": "1.12.2",
-  "mod_authors": ["KnightMiner"],
-  "url_website": "https://minecraft.curseforge.com/projects/tinkers-complement",
-  "description": "Addon for Tinkers Construct adding various features to complement those from Tinkers."
+    "mod_name": "Tinkers Complement",
+    "mod_id": "tcomplement",
+    "mod_version": "1.12.2-0.4.1",
+    "mc_version": "1.12.2",
+    "url_website": "https://minecraft.curseforge.com/projects/tinkers-complement",
+    "description": "Addon for Tinkers Construct adding various features to complement those from Tinkers",
+    "mod_dir": "/Tinkers_Complement/",
+    "mod_authors": [
+        "KnightMiner"
+    ]
 }

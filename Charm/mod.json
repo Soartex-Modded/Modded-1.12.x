@@ -1,0 +1,14 @@
+{
+    "mod_id": "charm",
+    "mod_name": "Charm",
+    "mod_filename": "Charm-1.12.2-1.0-alpha5.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "svenhjol",
+        "SokyranTheDragon"
+    ],
+    "url_website": "http://www.example.com",
+    "description": "A vanilla+ mod inspired by Quark, adding lots of small things to the game.",
+    "mod_version": "1.12.2-1.0",
+    "mod_dir": "/Charm/"
+}

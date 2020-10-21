@@ -1,10 +1,13 @@
 {
-  "mod_id": "exnihilocreatio",
-  "mod_name": "Ex Nihilo Creatio",
-  "mod_dir": "/Ex_Nihilo Creatio/",
-  "mod_version": "v1.5",
-  "mc_version": "1.12.2",
-  "mod_authors": ["BloodworkXGaming, insaneau, Jacky1356400"],
-  "url_website": "http://www.minecraftforum.net/topic/1981778-",
-  "description": "Making the whole world renewable"
+    "mod_id": "exnihilocreatio",
+    "mod_name": "Ex Nihilo Creatio",
+    "mod_filename": "exnihilocreatio-1.12-0.1.7.63.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "BloodWorkXGaming"
+    ],
+    "url_website": "",
+    "description": "In Creatio Ex Nihilo.",
+    "mod_version": "1.12-0.1.7.63",
+    "mod_dir": "/Ex_Nihilo Creatio/"
 }

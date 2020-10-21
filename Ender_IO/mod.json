@@ -1,0 +1,17 @@
+{
+    "mod_name": "Ender IO",
+    "mod_id": "enderio",
+    "mod_version": "5.1.51",
+    "mc_version": "1.12.2",
+    "url_website": "http://enderio.com",
+    "description": "Compact conduits, painted things and all sorts of stuff and bling.",
+    "mod_filename": "EnderIO-1.7.10-2.3.0.428_beta.jar",
+    "mod_authors": [
+        "CrazyPants_MC",
+        "HenryLoenwind",
+        "_ForgeUser20459859",
+        "EpicSquid315",
+        "tterrag1098"
+    ],
+    "mod_dir": "/Ender_IO/"
+}

@@ -1,0 +1,14 @@
+{
+    "mod_id": "tinker-i-o",
+    "mod_name": "Tinker I/O",
+    "mod_filename": "tinker_io-1.12.2-rw2.7.0.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "GKBm2011",
+        "tokomikea"
+    ],
+    "url_website": "http://minecraft.curseforge.com/mc-mods/229503-tinker-i-o",
+    "description": "Tinker I/O is a addon which use to extend the series of TConstruct Smeltery . ",
+    "mod_version": "1.12.2-rw2.7.0",
+    "mod_dir": "/Tinker_IO/"
+}
