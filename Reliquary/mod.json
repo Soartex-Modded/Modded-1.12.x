@@ -1,13 +1,13 @@
 {
-    "mod_name": "Reliquary",
     "mod_id": "xreliquary",
-    "mod_version": "1.12.2-1.3.4.796",
-    "mc_version": "1.12.2",
-    "url_website": "",
-    "description": "Two words: magical swag. Oh, and a gun.",
+    "mod_name": "Reliquary",
     "mod_filename": "Reliquary-1.7.10-1.2.1.483.jar",
+    "mc_version": "1.11.2",
     "mod_authors": [
         "P3pp3rF1y"
     ],
+    "url_website": "",
+    "description": "Many magical items to help you in your minecraft world",
+    "mod_version": "1.11.2-1.3.4.678",
     "mod_dir": "/Reliquary/"
 }

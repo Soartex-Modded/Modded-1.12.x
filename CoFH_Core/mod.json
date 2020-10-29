@@ -2,14 +2,13 @@
     "mod_id": "cofhcore",
     "mod_name": "CoFH Core",
     "mod_filename": "openmodularturrets-1.12.2-3.1.0-335.jar",
-    "mc_version": "1.12.2",
+    "mc_version": "1.11.2",
     "mod_authors": [
-        "Poenjabiesous",
-        "UntouchedWagons",
-        "Keridos"
+        "TeamCoFH",
+        "KingLemmingCoFH"
     ],
-    "url_website": "",
-    "description": "A mod that adds tons of modular turrets, upgrades, add-ons, and general manly security measures!",
-    "mod_version": "3.1.0-335",
+    "url_website": "http://www.teamcofh.com",
+    "description": "Contains Core Functionality for all Team CoFH mods. Also does some really cool stuff on its own!",
+    "mod_version": "4.2.8.16",
     "mod_dir": "/CoFH_Core/"
 }

@@ -1,0 +1,13 @@
+{
+    "mod_id": "hopper-ducts",
+    "mod_name": "Hopper Ducts",
+    "mod_filename": "hopperducts-mc1.12-1.5.jar",
+    "mc_version": "1.12",
+    "mod_authors": [
+        "FyberOptic"
+    ],
+    "url_website": "http://www.fybertech.net/minecraft",
+    "description": "Adds ducts, which connect to hoppers and send items in any direction, including upwards.",
+    "mod_version": "mc1.12-1.5",
+    "mod_dir": "/Hopper_Ducts/"
+}

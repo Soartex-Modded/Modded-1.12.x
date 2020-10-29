@@ -1,13 +1,13 @@
 {
-    "mod_name": "Mekanism",
     "mod_id": "mekanism",
-    "mod_version": "1.12.2-9.7.9.380",
-    "mc_version": "1.12.2",
-    "description": "Tools and Machines",
+    "mod_name": "Mekanism",
     "mod_filename": "Mekanism-1.7.10-9.1.1.1031.jar",
+    "mc_version": "1.11.2",
     "mod_authors": [
         "aidancbrady"
     ],
-    "url_website": "http://aidancbrady.com/mekanism/",
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/mekanism",
+    "description": "High-tech machinery, powerful energy generation, fancy gadgets and more. Now on Curse!",
+    "mod_version": "9.3.5",
     "mod_dir": "/Mekanism/"
 }

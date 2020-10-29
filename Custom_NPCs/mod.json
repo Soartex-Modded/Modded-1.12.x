@@ -1,0 +1,9 @@
+{
+    "mod_name": "CustomNPCs",
+    "mod_id": "customnpcs",
+    "mod_version": "1.12",
+    "mc_version": "1.12",
+    "url_website": "http://tinyurl.com/customnpcs",
+    "description": "The Custom Npcs mod lets you create your own npcs and lets you customize them how you want",
+    "mod_dir": "/Custom_NPCs/"
+}
