@@ -33,9 +33,13 @@ Icon
 # Artifacts left by other applications
 # SyncToy
 SyncToy*
+.idea/
 
 # Custom split-zip pack.mcmeta
 pack.mcmeta
 
 # Model Editors
 *.cubik
+
+# placeholder textures
+__default_*

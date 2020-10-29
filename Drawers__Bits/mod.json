@@ -1,0 +1,13 @@
+{
+    "mod_id": "drawers-bits",
+    "mod_name": "Drawers & Bits",
+    "mod_filename": "DrawersBits-1.11.2-0.41.jar",
+    "mc_version": "1.11.2",
+    "mod_authors": [
+        "Belgabor"
+    ],
+    "url_website": "https://github.com/Belgabor/BitDrawers",
+    "description": "Drawers & Bits is an addon for the Minecraft mods Chisels & Bits by AlgorithmX2 and Storage Drawers by jaquadro. The mod adds special drawers and support for bits.",
+    "mod_version": "1.11.2-0.41",
+    "mod_dir": "/Drawers__Bits/"
+}

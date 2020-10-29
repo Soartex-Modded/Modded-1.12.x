@@ -1,10 +1,10 @@
 {
+    "mod_filename": "davincisvessels-1.12-6.340-full.jar",
     "mod_id": "davincisvessels",
     "mod_name": "Davincis Vessels",
     "mod_dir": "/Davincis_Vessels/",
     "mod_version": "6.340-full",
     "mc_version": "1.12.x",
-    "mod_filename": "davincisvessels-1.12-6.340-full.jar",
     "mod_authors": [
         "darkevilmac (Maintainer), BalkondeurAlpha (Original Author)"
     ],

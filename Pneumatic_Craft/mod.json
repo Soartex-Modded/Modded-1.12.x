@@ -1,12 +1,14 @@
 {
-    "mod_name": "Pneumatic Craft",
     "mod_id": "pneumaticcraft",
-    "mod_version": "1.12.2-0.11.1-361",
+    "mod_name": "Pneumatic Craft",
+    "mod_filename": "pneumaticcraft-repressurized-1.12.2-0.1.0-47.jar",
     "mc_version": "1.12.2",
-    "url_website": "https://minecraft.curseforge.com/projects/pneumaticcraft-repressurized",
-    "description": "A port of MineMaarten's PneumaticCraft to Minecraft 1.12+",
-    "mod_dir": "/Pneumatic_Craft/",
     "mod_authors": [
-        "MineMaarten"
-    ]
+        "desht_08",
+        "minemaarten2"
+    ],
+    "url_website": "",
+    "description": "Doing cool stuff with pressurized air",
+    "mod_version": "1.12.2-0.1.0-47",
+    "mod_dir": "/Pneumatic_Craft/"
 }
