@@ -1,0 +1,13 @@
+{
+    "mod_id": "rftools-control",
+    "mod_name": "RFTools Control",
+    "mod_filename": "rftoolsctrl-1.12-1.9.0-alpha.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "McJty"
+    ],
+    "url_website": "",
+    "description": "Automation and logic computer addon for RFTools",
+    "mod_version": "1.12-1.9.0-alpha",
+    "mod_dir": "/RFTools_Control/"
+}

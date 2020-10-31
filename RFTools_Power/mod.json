@@ -1,0 +1,12 @@
+{
+    "mod_filename": "rftoolspower-1.12-0.1.2.jar",
+    "mod_id": "rftools-power",
+    "mod_name": "RFTools Power",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "McJty"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/rftools-power",
+    "description": "RFTools addon for all power generator/storage",
+    "mod_dir": "/RFTools_Power/"
+}

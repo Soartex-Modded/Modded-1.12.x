@@ -1,9 +1,14 @@
 {
-    "mod_name": "Industrial Foregoing",
     "mod_id": "industrialforegoing",
-    "mod_version": "1.12.12",
+    "mod_name": "Industrial Foregoing",
+    "mod_filename": "industrialforegoing-1.12.2-1.11.3-213.jar",
     "mc_version": "1.12.2",
+    "mod_authors": [
+        "Buuz135",
+        "hrznstudio"
+    ],
     "url_website": "https://minecraft.curseforge.com/projects/industrial-foregoing",
-    "description": "A small reinvention of Minefactory Reloaded.",
+    "description": "A collection of machines to make your minecraft builds easier to automate",
+    "mod_version": "1.11.3",
     "mod_dir": "/Industrial_Foregoing/"
 }
