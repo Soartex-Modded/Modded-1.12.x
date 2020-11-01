@@ -1,15 +1,13 @@
 {
-    "mod_name": "BiblioCraft",
     "mod_id": "bibliocraft",
-    "mod_version": "2.4.5",
-    "url_website": "http://www.bibliocraftmod.com",
-    "description": "BiblioCraft adds fancy storage containers including bookcases, armor stands, potion shelves, regular shelves, tool racks, glass weapon cases, wooden desks and wooden chest labels and now add machines, redstone interactions, and eyeware, fancy lamps and golden lanterns. Also Tables, enchanted plates, map frames, and seats!",
+    "mod_name": "BiblioCraft",
     "mod_filename": "BiblioCraft[v2.2.5][MC1.10.2].jar",
     "mc_version": "1.12.2",
     "mod_authors": [
-        "Joseph",
-        "Nuchaz",
-        "Sinclair"
+        "Nuchaz"
     ],
+    "url_website": "http://www.bibliocraftmod.com",
+    "description": "Bookcases, armor stands, shelves and so much more!",
+    "mod_version": "2.4.5",
     "mod_dir": "/BiblioCraft/"
 }
