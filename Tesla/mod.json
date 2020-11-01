@@ -1,0 +1,14 @@
+{
+	  "mod_id": "tesla",
+	  "mod_name": "Tesla",
+	  "mod_filename": "Tesla-1.12.2-1.0.63.jar",
+	  "mc_version": "1.12.2",
+	  "mod_authors": [
+	  		"DarkhaxDev",
+	  		"MCModDev"
+	  ],
+	  "url_website": "https://www.curseforge.com/minecraft/mc-mods/tesla",
+	  "description": "Tesla is a power API designed for cross mod communication."
+	  "mod_version": "v1.0.63",
+	  "mod_dir": "/Tesla/",
+}

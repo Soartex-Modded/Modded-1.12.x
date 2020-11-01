@@ -1,0 +1,15 @@
+{
+	  "mod_id": "teslacorelib",
+	  "mod_name": "Tesla Core Lib",
+	  "mod_filename": "tesla-core-lib-1.12.2-1.0.17.jar",
+	  "mc_version": "1.12.2",
+	  "mod_authors": [
+	  		"face_of_cat",
+	  		"dshadowwolf",
+	  		"MCModDev"
+	  ],
+	  "url_website": "https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib",
+	  "description": "Just a support lib for some technical mods."
+	  "mod_version": "v1.0.17",
+	  "mod_dir": "/Tesla_Core_Lib/",
+}

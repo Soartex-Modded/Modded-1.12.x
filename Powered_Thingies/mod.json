@@ -1,0 +1,15 @@
+{
+	  "mod_id": "teslathingies",
+	  "mod_name": "Powered Thingies",
+	  "mod_filename": "powered-thingies-1.12.2-1.0.15.jar",
+	  "mc_version": "1.12.2",
+	  "mod_authors": [
+	  		"face_of_cat",
+	  		"dshadowwolf",
+	  		"MCModDev"
+	  ],
+	  "url_website": "https://www.curseforge.com/minecraft/mc-mods/powered-thingies",
+	  "description": "A bunsh of machines powered by forges tesla energy."
+	  "mod_version": "v1.0.15",
+	  "mod_dir": "/Powered_Thingies/",
+}

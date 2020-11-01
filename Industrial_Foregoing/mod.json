@@ -1,7 +1,7 @@
 {
     "mod_id": "industrialforegoing",
     "mod_name": "Industrial Foregoing",
-    "mod_filename": "industrialforegoing-1.12.2-1.11.3-213.jar",
+    "mod_filename": "industrialforegoing-1.12.2-1.12.13-237.jar",
     "mc_version": "1.12.2",
     "mod_authors": [
         "Buuz135",
@@ -9,6 +9,6 @@
     ],
     "url_website": "https://minecraft.curseforge.com/projects/industrial-foregoing",
     "description": "A collection of machines to make your minecraft builds easier to automate",
-    "mod_version": "1.11.3",
+    "mod_version": "1.12.13",
     "mod_dir": "/Industrial_Foregoing/"
 }
