@@ -2,12 +2,11 @@
     "mod_id": "extrautils2",
     "mod_name": "Extra Utilities 2",
     "mod_filename": "extrautils2-1.12-1.9.9.jar",
-    "mc_version": "${mcversion}",
+    "mc_version": "1.12",
     "mod_authors": [
         "RWTema"
     ],
-    "url_website": "",
     "description": "Just a bunch of useful things",
-    "mod_version": "${version}",
+    "mod_version": "1.9.9",
     "mod_dir": "/Extra_Utilities_2/"
 }
