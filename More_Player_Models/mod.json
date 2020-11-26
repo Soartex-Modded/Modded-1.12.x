@@ -1,0 +1,13 @@
+{
+    "mod_id": "more-player-models",
+    "mod_name": "More Player Models",
+    "mod_filename": "MorePlayerModels_1.12.2-(05Dec19).jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "Noppes_"
+    ],
+    "url_website": "http://www.kodevelopment.nl/minecraft/moreplayermodels/",
+    "description": "Character creation screen, animations, chatbubbles and more.",
+    "mod_version": "(05Dec19)",
+    "mod_dir": "/More_Player_Models/"
+}

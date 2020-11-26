@@ -1,0 +1,5 @@
+branches:
+  only:
+    - master
+if: tag IS present
+script: bash deploy.sh

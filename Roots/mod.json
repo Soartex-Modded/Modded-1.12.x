@@ -1,0 +1,16 @@
+{
+    "mod_id": "roots",
+    "mod_name": "Roots",
+    "mod_filename": "Roots-1.12.2-3.0.32.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "EpicSquid315",
+        "Martacus",
+        "Noobanidus",
+        "Davoleo_K"
+    ],
+    "url_website": "",
+    "description": "A druidic nature-magic mod.",
+    "mod_version": "1.12.2-3.0.32",
+    "mod_dir": "/Roots/"
+}

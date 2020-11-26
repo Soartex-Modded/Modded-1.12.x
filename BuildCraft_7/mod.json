@@ -1,15 +1,15 @@
 {
-    "mod_id": "buildcraft_7",
     "mod_name": "Buildcraft 7",
-    "mod_filename": "buildcraft-7.0.5.jar",
+    "mod_id": "buildcraft_7",
+    "mod_version": "7.99.23",
     "mc_version": "1.12.2",
+    "url_website": "http://www.mod-buildcraft.com/",
+    "description": "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! (Robotics Component)",
+    "mod_filename": "buildcraft-7.0.5.jar",
     "mod_authors": [
         "Covert_Jaguar",
         "AlexIIL",
         "AEnterprise"
     ],
-    "url_website": "http://www.mod-buildcraft.com/",
-    "description": "BuildCraft Factory Module",
-    "mod_version": "7.99.23",
     "mod_dir": "/BuildCraft_7/"
 }

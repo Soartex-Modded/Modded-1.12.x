@@ -1,10 +1,11 @@
 {
     "mod_name": "Thermal Expansion",
     "mod_id": "thermalexpansion",
-    "mod_version": "5.5.4.43",
+    "mod_version": "5.5.2.37",
     "mc_version": "1.12.2",
     "url_website": "http://www.teamcofh.com",
     "description": "Expanding Minecraft Thermally - provides new options for automation and processing!",
+    "mod_filename": "ThermalExpansion-1.11.2-5.2.6.21-universal.jar",
     "mod_authors": [
         "Team CoFH"
     ],

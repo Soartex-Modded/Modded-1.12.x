@@ -1,16 +1,16 @@
 {
     "mod_name": "IndustrialCraft 2",
     "mod_id": "ic2",
-    "mod_version": "2.8.187-ex112",
+    "mod_version": "2.8.170-ex112",
     "mc_version": "1.12.2",
     "url_website": "http://www.industrial-craft.net",
     "description": "Industrial age themed expansion for Minecraft.",
+    "mod_filename": "industrialcraft-2-2.8.170-ex112.jar",
     "mod_authors": [
         "sfPlayer1",
-        "Aroma1997",
         "Chocohead",
+        "Aroma1997",
         "estebess"
     ],
-    "mod_dir": "/IndustrialCraft_2/",
-    "mod_filename": "industrialcraft-2-2.8.170-ex112.jar"
+    "mod_dir": "/IndustrialCraft_2/"
 }

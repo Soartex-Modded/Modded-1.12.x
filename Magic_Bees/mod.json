@@ -4,10 +4,11 @@
     "mod_filename": "magicbees-1.7.10-2.4.4.jar",
     "mc_version": "1.12.2",
     "mod_authors": [
-        "Elec332, MysteriousAges"
+        "MysteriousAges",
+        "Elec332"
     ],
     "url_website": "http://bit.ly/XFDvLY",
     "description": "Adds more Bee species to Forestry; provides some integration with Thaumcraft and other mods.",
-    "mod_version": "3.1.10",
+    "mod_version": "3.2.25",
     "mod_dir": "/Magic_Bees/"
 }
