@@ -1,13 +1,17 @@
 {
-    "mod_name": "Applied Energistics 2",
     "mod_id": "appliedenergistics2",
-    "mod_version": "rv6-stable-6",
+    "mod_name": "Applied Energistics 2",
+    "mod_filename": "appliedenergistics2-rv2-stable-10.jar",
     "mc_version": "1.12.2",
+    "mod_authors": [
+        "AlgorithmX2",
+        "FireBall1725",
+        "thatsIch",
+        "TeamAppliedEnergistics",
+        "_ForgeUser651564"
+    ],
     "url_website": "http://ae2.ae-mod.info",
     "description": "A Mod about Matter, Energy and using them to conquer the world..",
-    "mod_filename": "appliedenergistics2-rv2-stable-10.jar",
-    "mod_authors": [
-        "AlgorithmX2"
-    ],
+    "mod_version": "rv6-stable-7",
     "mod_dir": "/Applied_Energistics_2/"
 }
