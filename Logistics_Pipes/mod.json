@@ -1,15 +1,15 @@
 {
     "mod_id": "logisticspipes",
     "mod_name": "Logistics Pipes",
-    "mod_filename": "logisticspipes-0.9.3.132.jar",
+    "mod_filename": "logisticspipes-0.10.3.76.jar",
     "mc_version": "1.12.2",
     "mod_authors": [
         "mc_rs485",
         "davboecki",
         "theZorro266"
     ],
-    "url_website": "http://www.minecraftforum.net/topic/1831791-",
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/logistics-pipes",
     "description": "Logistics Pipes is an extensive overhaul of the Buildcraft pipe system. It allows for better distribution of items via pipes, more organised stockkeeping and easier automated crafting.",
-    "mod_version": "0.10.3.40",
+    "mod_version": "0.10.3.76",
     "mod_dir": "/Logistics_Pipes/"
 }
