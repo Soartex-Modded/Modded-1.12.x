@@ -1,0 +1,13 @@
+{
+    "mod_id": "millenaire",
+    "mod_name": "Millénaire",
+    "mod_filename": "millenaire-8.1.1.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "Kinniken"
+    ],
+    "url_website": "millenaire.org",
+    "description": "Millénaire, the historical Minecraft Village Mod",
+    "mod_version": "8.1.1",
+    "mod_dir": "/Millénaire/"
+}
