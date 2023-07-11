@@ -1,0 +1,13 @@
+{
+    "mod_id": "travellersbackpack",
+    "mod_name": "Traveler's Backpack",
+    "mod_filename": "TravellersBackpack-1.12.2-1.0.20.20.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "Tiviacz1337"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/travelers-backpack",
+    "description": "The mod adds backpacks which have some features",
+    "mod_version": "1.0.20.20",
+    "mod_dir": "/Traveler's Backpack/"
+}

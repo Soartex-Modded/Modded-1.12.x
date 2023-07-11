@@ -1,0 +1,4 @@
+hose_drink.png
+hose_nozzle.png
+hose_spill.png
+hose_suck.png
